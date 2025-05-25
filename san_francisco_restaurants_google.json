@@ -1,0 +1,525 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "3416 19th St, San Francisco, CA 94110, United States",
+    "geometry": {
+      "location": {
+        "lat": 37.7604119,
+        "lng": -122.4197156
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.76166232989272,
+          "lng": -122.4183551701073
+        },
+        "southwest": {
+          "lat": 37.75896267010728,
+          "lng": -122.4210548298927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Lazy Bear",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 2597,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111719219215411994893\">Indoorfish</a>"
+        ],
+        "photo_reference": "AXQCQNRt2Aan7MCn_uEENobEtsCfOLQE5Uf6-QaPcN9qXmzJsWLD5tjFMvw4RaxAdwDuT5HRStrxVOvrUGC0kFAoA59FEQY_0gtvDkPt3m8sX-HGuXQ6E030MSwG8AkVcD5CjJ22RJzHGgPBC0G9KlRDdjQbzAejB-dKLOUXX7dHjI0gJT2DdsV3ht32GQrc8ski1B5H2r2VJEk8ugu18x_oF9j7E_Y-qLmdb9Y3RKCVCGG0G252MFxYds-pbJYe-HG7YJr2cQ5e4TCTpoDULQh2MDflgKxhVDKsEL9lfyJ32mEAKtmgQX3EW4XEEx-BtL3j8TRGWYnZtbySNYUvON4UGMZ-Fz_IJb4UMx6u-5HjFGcyu921KYrjo6k_AFO-xc1YkWmYneeuUBFHQZBbsE26XQF_wLOM-wGmw58BBxcuQoLEUvJdQcYDDgqREN1pY6OXDWFOSQH500pWs54cqM0s_BVxQnMDz3vXWn0XWCf583m2eIDN2709Fw2sXE07a4iFk-lZqtnFcCuWhohgqc-b9wkAnJJ7qZG7wKgzb3nSJsNk0EhkzbjiomeKwpnX7Vbr9IvOlg",
+        "width": 4088
+      }
+    ],
+    "place_id": "ChIJk35bizx-j4AREil6UPp7Jn4",
+    "plus_code": {
+      "compound_code": "QH6J+54 Mission District, San Francisco, CA, USA",
+      "global_code": "849VQH6J+54"
+    },
+    "price_level": 4,
+    "rating": 4.8,
+    "reference": "ChIJk35bizx-j4AREil6UPp7Jn4",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1084
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "2101 Sutter St, San Francisco, CA 94115, United States",
+    "geometry": {
+      "location": {
+        "lat": 37.78570819999999,
+        "lng": -122.4351203
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.78713357989272,
+          "lng": -122.4337336701073
+        },
+        "southwest": {
+          "lat": 37.78443392010728,
+          "lng": -122.4364333298927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Sweet Maple",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2237,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111370628784399049288\">Sweet Maple</a>"
+        ],
+        "photo_reference": "AXQCQNSCYHBLTVIWmG-imKEgv2wJLV4koROhsOiuooK-5UXYjnCGFhqAEHC_m2cB3yfo-MmcQzS-OV7VQOcHy68q99uYiztv1o7se-mBjJDGukAV1ZxWhhIldH1GjnBlfvzOv3gArUaKqov7EHT0omIFumLcEU3FTYxQdM7cMIS51vhVmdGzwuHCr2Z-j-X9PGTjaSAp7NyHg1oILZUoE4sLAdQ8PsvVdgMj1UHw9G7rR8cX_wnMPymA4k-upJX-Jsuo4pme1xxa2uKbfMMnaWlMZzA94iuh3_G9lZGPg_Sbw6UJ65ImNvs",
+        "width": 3442
+      }
+    ],
+    "place_id": "ChIJMT5TG7iAhYAREDkkUYkUSYg",
+    "plus_code": {
+      "compound_code": "QHP7+7X Lower Pacific Heights, San Francisco, CA, USA",
+      "global_code": "849VQHP7+7X"
+    },
+    "price_level": 2,
+    "rating": 4.6,
+    "reference": "ChIJMT5TG7iAhYAREDkkUYkUSYg",
+    "types": [
+      "cafe",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4184
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "552 Green St, San Francisco, CA 94133, United States",
+    "geometry": {
+      "location": {
+        "lat": 37.7997108,
+        "lng": -122.4083444
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.80102952989272,
+          "lng": -122.4069905201073
+        },
+        "southwest": {
+          "lat": 37.79832987010727,
+          "lng": -122.4096901798927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Sotto Mare",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103876227458178682705\">Seunghee Sohn</a>"
+        ],
+        "photo_reference": "AXQCQNT_JiozfyH4v1rLIrYyZVYh2cFwHGwxQUAsS3TZt-Tw3Ec-hkNzGZsooyi7myca95RgTeAlFEDV7_myIarhi9zXNDRcEtCe3bAWJuIm6Cumae6Ch-T2E8r8Vl0wKQ1v-D5Oc9b71GxWLx2O8e33cZzL6tXKK235c4truOX8CPPcS7RUkM3y2kN39fwXNgm2LcYMPvuxZJcN2ELnOKgDrW76iKK2jveczIV0sdN_x2fol2b95A0s6UBeZKXXA-jqM-AGfG2q1xZj66cIYfVmMudwiQatWa4fZi1u4loV2BqHI7h9N_Rwnc6qKjrT2zYs77JVTDuFRNHwyxvjqUOiD_02YYa4cKCpewjQkv8x-IW0Y_fOteqPkdjgn1SPflGXsj9BK3wKNIlsbtnNWSSV4TmCq9omtdGkr55bWHCDEb7UVBcPFsxdYth3mpz9PojkC0o8LMstm9zMTgUdVxMqufvCKZflMMOYFPXGOvX_yd3u3mUYSaL-gbrT5WCvfZPk63q4IUEpMcy33s0dJoHeT_Sk8qEdjshIuGoBogvyjgdCMgryJz_H8p90dE5Bqs1S8fjzE3N3",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJQfYyVvGAhYARJVwoboB1WKQ",
+    "plus_code": {
+      "compound_code": "QHXR+WM North Beach, San Francisco, CA, USA",
+      "global_code": "849VQHXR+WM"
+    },
+    "price_level": 2,
+    "rating": 4.6,
+    "reference": "ChIJQfYyVvGAhYARJVwoboB1WKQ",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4490
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "199 Gough St, San Francisco, CA 94102, United States",
+    "geometry": {
+      "location": {
+        "lat": 37.7748812,
+        "lng": -122.422725
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.77625447989273,
+          "lng": -122.4213785201073
+        },
+        "southwest": {
+          "lat": 37.77355482010729,
+          "lng": -122.4240781798927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Rich Table",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106402858243355735687\">Rich Table</a>"
+        ],
+        "photo_reference": "AXQCQNR5YLe_-MmRtbM_AqW7C2jGz5gcDVAhgBfqoIcRJcKffun0UWX5incho_uHOjwvCCXXy0KL_znA5AymNUgO8RsLEyJQWYq38lFeTanNXr4ypfw2fy2Pbu-RTu1nrVFeYd858nfb3z-Bl0ZmHOI8a572lfUjgWZ-pP6LWP-1nnegsjwTenYoB15y-T7K3oObvYQxGUU8zRlbSPLmNPOZcGdAL0NqtqDIwpbqGLhnmLsuhn_aZGFIRwfj4SpLaf85ZZC_7YDQUO62pbKN43up2As8mjkP3HDnf0sJeBqjo9g13N_ERZ4",
+        "width": 5904
+      }
+    ],
+    "place_id": "ChIJh_24QJ-AhYAR_xbUNVN2Xns",
+    "plus_code": {
+      "compound_code": "QHFG+WV Lower Haight, San Francisco, CA, USA",
+      "global_code": "849VQHFG+WV"
+    },
+    "price_level": 3,
+    "rating": 4.7,
+    "reference": "ChIJh_24QJ-AhYAR_xbUNVN2Xns",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1421
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "600 The Embarcadero, San Francisco, CA 94107, United States",
+    "geometry": {
+      "location": {
+        "lat": 37.784392,
+        "lng": -122.3883687
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.78573707989272,
+          "lng": -122.3869903201073
+        },
+        "southwest": {
+          "lat": 37.78303742010728,
+          "lng": -122.3896899798927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Delancey Street Restaurant",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1508,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111455704228539232821\">Edmundo Santa Maria</a>"
+        ],
+        "photo_reference": "AXQCQNSEgX6kEJKK1BWxSUtvtbH4FJz51h94wURS0CQx2FtSjcYjpAwjK4dgiUxmgnFSbw0yQrxUWUQTebLWdMrlqiToUnh5zGXS0OiFUwtkCyOCTBEHO3_oVs4xEtSzLdFmIrJ_1fmStaJKu0EKrgD9JJcLqF9tPTrL02o3FV50j0PUfbeKbrwmpuY0ijokKsDVlbEXwP7RryQ51Kt5LIL1S9dPhUzjNKt-dB8xBPLn-6w39_SnyOiASR8JBrWwEVIYvq00egGia-ftfgDORfd6S2FN8n9OfWBPyxl3OiAFKSmFme4NjEgohdr3nWcRvQnxTooy6o_WDOYTWWS2RJyNABctDwB51FWjYrOEoJK4I7wbNeddbnXXGjCLeuLWnfK4nLRK1DoVVvEpHpR6JIM0-YCtEUK-oQz26itUydxQUGmF0FuMk7bQo6lVHvsTcuYMlPzHVsYK2kjLMyDA6WUcCH5kh7eiWcFtTji4IS7HoSidwsZvzl7iuWTe5oK5KjL0GkZmvqoUfAl9oLxw9GnuJ61ZBPkJ6mEMKv_p-zP1iKDIJ-AzOW5drgRekK6rXWjoC2pyYE9_",
+        "width": 1967
+      }
+    ],
+    "place_id": "ChIJTRf2DXeAhYARsjppfRXu44s",
+    "plus_code": {
+      "compound_code": "QJM6+PJ South Beach, San Francisco, CA, USA",
+      "global_code": "849VQJM6+PJ"
+    },
+    "price_level": 1,
+    "rating": 4.5,
+    "reference": "ChIJTRf2DXeAhYARsjppfRXu44s",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1500
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "871 Sutter St, San Francisco, CA 94109, United States",
+    "geometry": {
+      "location": {
+        "lat": 37.7882263,
+        "lng": -122.4146051
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.78969862989272,
+          "lng": -122.4132871701073
+        },
+        "southwest": {
+          "lat": 37.78699897010728,
+          "lng": -122.4159868298927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Liholiho Yacht Club",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1280,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107159646449964975575\">Liholiho Yacht Club</a>"
+        ],
+        "photo_reference": "AXQCQNRQnMUFNuB-teAZtyY5JDv1vYAIgnYkh0CCTeT4NYHHLrIyH8dhoEDfZSa7-xVCPPw_B8eCXjOG2lAjFM_Do1xV7F0SQlcMdIy_QOvvlbLk5rMM9p_1yt8DSUM5pcHvNpGvcIOeg3KnK3lMYIY3Ju5UucRSkqpjSdUuu7mYyavtCw3UnZQyw6r6t25DETkMucebh3NDpeyh-Y9ksfoNLe6iOrLbXFqPyNYNccFsDxsISWFyv44T1Ppu9hhJvbgYavv_uBb1e5UoqgJUhpYUAtqM9TFRiSJYg2ATVzz4UTx06ku2YUU",
+        "width": 1920
+      }
+    ],
+    "place_id": "ChIJkVSnJpKAhYARCSaDnRo5brE",
+    "plus_code": {
+      "compound_code": "QHQP+75 Lower Nob Hill, San Francisco, CA, USA",
+      "global_code": "849VQHQP+75"
+    },
+    "price_level": 3,
+    "rating": 4.7,
+    "reference": "ChIJkVSnJpKAhYARCSaDnRo5brE",
+    "types": [
+      "bar",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1764
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "200 Jackson St, San Francisco, CA 94111, United States",
+    "geometry": {
+      "location": {
+        "lat": 37.7970323,
+        "lng": -122.3997559
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.79832347989272,
+          "lng": -122.3982966701073
+        },
+        "southwest": {
+          "lat": 37.79562382010727,
+          "lng": -122.4009963298927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Kokkari Estiatorio",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111383913900870229200\">Lawrence Marcus</a>"
+        ],
+        "photo_reference": "AXQCQNREbzX-6-dVWDRqUWs3iCHzrqA_i97Bwde8BXNwYhUo-oa3eKAbN_51kiKu9twgeElTvKociWZZHGgiovIRwurSEqT9qQx1OP3Ks2oewRfsp1TWhwhAY4n8DAOgWTeXSYEQHV9K5rPvvrD5-iM-QvJrWfFqKuZmWzTE4Av87YSPzeb4w2XtvDd3xahGMHRi9UjM8HiV9_HIN-d2fw3LsAWCsaO3qhDVAJmPEIWJoF88g800LsJg8geVCYRicMXBoT3xjRGxhC-2XO9ApXc7Tg1w00sGbuaYvu3ZKwYitcAMzV0YD0BWFvTLMcNkdXz2OxcnwBuHN4nQdTwGWl9PNAO9n5nMuB0V96JsQjIKi1a5Sjwgz7Ea1VeGi2YyvmPP4UJ8v7Y7CTm96hHJbvSSarneB6H4pqzyta0xcY5XY96vGLJSLdWsT-morvFmanNnCYy0TKxlP7hf9A5pSbQLNXSVyLnb0CoOEb0EHdINzPlu1YR-N-cHRItdNosM8geudelD78Wd_JK4creGHIHyY8279ZkLxfwlvPaeGBASl2aFlYMccahDFn8Hjwoecer7JEJU8A",
+        "width": 2268
+      }
+    ],
+    "place_id": "ChIJTel9dGCAhYARQGwrTfGZ07M",
+    "plus_code": {
+      "compound_code": "QJW2+R3 Northern Waterfront, San Francisco, CA, USA",
+      "global_code": "849VQJW2+R3"
+    },
+    "price_level": 4,
+    "rating": 4.7,
+    "reference": "ChIJTel9dGCAhYARQGwrTfGZ07M",
+    "types": [
+      "meal_takeaway",
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3181
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "698 Post St, San Francisco, CA 94109, United States",
+    "geometry": {
+      "location": {
+        "lat": 37.7877948,
+        "lng": -122.4132553
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.78911747989272,
+          "lng": -122.4119089701072
+        },
+        "southwest": {
+          "lat": 37.78641782010727,
+          "lng": -122.4146086298927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Lapisara Eatery",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3036,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109001500450339340379\">Roopak Venkatakrishnan</a>"
+        ],
+        "photo_reference": "AXQCQNShIs4IMYo3gK6g3ORvj9WTicZ-Y6yH_rpvhOUbAnG80vnnS6l7rC8EXRWgupxujMgVsKGn9kpZeGvqsRb4oX4x-bx3C1nYdX2Tq1WBNdaBISlauZ_CaU1DlNi-r0V7zAOZK5K9auRE_r6JSgarAu7avTi5CvJB7_Xg7OOEyF90sW1IAqP5g9Su38F_eyOM6JMO_b5B7md9xgAyuyywJ1sYOVhh0aQinur2YMZQO5xW_IEPL5IGQ4RsVEvoFvH12PcRt-WYay803ppoiB5QqOISJ0gYGMHn9ja4KjwXtloLpVadBoJ30E7aXFvKlttNlOu33S71RZxZpYOXm19Va2b2AEJsxCpd9CGtChlYb2MeWF4ljYiY6xZdx4Eo3ILc5gmN9sPRZs2vfi6BCNUbip7KarNmIff7N17eIRo-Peg092u7aP6y6O2p749L4YY8ktHB0-bQKqvrwGB6GuVvR3lt7reTjV5U8MnZY0Mg0iIzDFS9QPAWQzGMdsN4NM5PTBqQSNbfmgEgKbapcvQc5PUoKhJoyjzTHmBqj5oeIYOwZiecjHSUeX3W2DwprHi84IDi7rfb",
+        "width": 4048
+      }
+    ],
+    "place_id": "ChIJn3Nz-5GAhYAR4g8euEazEYg",
+    "plus_code": {
+      "compound_code": "QHQP+4P Lower Nob Hill, San Francisco, CA, USA",
+      "global_code": "849VQHQP+4P"
+    },
+    "price_level": 2,
+    "rating": 4.7,
+    "reference": "ChIJn3Nz-5GAhYAR4g8euEazEYg",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1720
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "652 Polk St, San Francisco, CA 94102, United States",
+    "geometry": {
+      "location": {
+        "lat": 37.7829132,
+        "lng": -122.4188995
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.78423687989272,
+          "lng": -122.4176756201073
+        },
+        "southwest": {
+          "lat": 37.78153722010727,
+          "lng": -122.4203752798927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Brenda's French Soul Food",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3984,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105405315300875033710\">Ranell Holmes</a>"
+        ],
+        "photo_reference": "AXQCQNQas7JTcgLACLhqrzcbC9nQQ51rUmWwCrJ2xHm9uOXOxE8zTRGonoYYPMj8B5qYQg-G3Po6LXtfgv3LM3XNDX_odOXNiuTB-v9gMnZzLwP6dzgvpttaHwzAM2VDFCvddFdiTlx93og58fmzPX_OCpNj4oRO-YBwjHbafuCT0VpovEUfABz-ne9sTyW1gok28rxcibheOTf7epFRZDJ4v-wJq4Vt2ck6sqN1QL6ln6Nev_HKp32ujDisHRSyepsMm95ZsJvZmu0RtQPfpRDgKQkOual0lW1WMOLISrmYpzrBoNlTnF2sunFAMyTnLYkrrOGVbY5Bs2R86lqt-BwXYaT8IrbpLk1mmiTaLJphUpYymGs8f2GC07ki8M5xFIfPrBfOoBf0JLz7X_OQYZqmkNQ7G9_uV0Sk1mCYv-duYlcPNDyJuSP9Rre_VyMd7VhTc6_HnrfKt7DyTaOCyW0ip1OSDsBOWrHdeqxyBXg0tfFbmXx8120x_LRL1h9gZ0ttxB_VSpvlJw8gzNNRODae3cBx3P3xT9P-6J_kksjJEjCzZ0j3e2SK44o5YLewOyqoq6d_yqBr",
+        "width": 2988
+      }
+    ],
+    "place_id": "ChIJZ9s5SJeAhYARIX3Fxl6oj6c",
+    "plus_code": {
+      "compound_code": "QHMJ+5C Tenderloin, San Francisco, CA, USA",
+      "global_code": "849VQHMJ+5C"
+    },
+    "price_level": 2,
+    "rating": 4.5,
+    "reference": "ChIJZ9s5SJeAhYARIX3Fxl6oj6c",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 5976
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "1529 Fillmore St, San Francisco, CA 94115, United States",
+    "geometry": {
+      "location": {
+        "lat": 37.7836781,
+        "lng": -122.4329498
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 37.78502642989272,
+          "lng": -122.4315527701073
+        },
+        "southwest": {
+          "lat": 37.78232677010728,
+          "lng": -122.4342524298927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "State Bird Provisions",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110399721482428603495\">Adi Guy</a>"
+        ],
+        "photo_reference": "AXQCQNShjVrhlt_x2PG_QjSOJCpaWAwuYj1Jc-AN_s9VyW1Ym_yVAWqht-sAAWJE_UKk_gToxfP7GeKPFNMhoZgK33LRkQ0yrFkitAiHVP2PptU6tHrpaQx6vVafDm8BkSWm8Hvxeu7qQKhWr5JGX_kwj7slyd3iSCLbpDPbYCPcfC3_r5GrppfQwe_uo3yItV3cygMaOp5TTGqAanpC4EpHxF3sthV5NYXX3yPD7saKPRZit59WQ0KtSd4GLehZpsXlOEoOQchOJXgttw8_XW49U1dM0KnXGUCmuu386F-GwXqim1cUsPj9D-eUPNu2zVcwX7rr8AkwJhSrnCMEJvlZR34FFdsRTDluSFYIboTkqQ1xpIgJBMQxsMwho-zVPQqYvm1EwenDtIDDPvVnide8kBZAriYQv016sVg5uj6K9eBupXtm-yDAqNKWEDUN3BG3dgII5AYkEKCRPMPC4EzzAR3FZBfmJ-r4J_HHAASCco64y3LMf3JY-kE1k1BGVHmIRzLrwFttzS7vuSZonCTetqRenBWMT7Myoew67olakJ-ac2ho0Y8kKrDX7iMrs_e7HGsYk_7j",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJQ7kGpLmAhYARKeCe2pDobWk",
+    "plus_code": {
+      "compound_code": "QHM8+FQ Western Addition, San Francisco, CA, USA",
+      "global_code": "849VQHM8+FQ"
+    },
+    "price_level": 3,
+    "rating": 4.5,
+    "reference": "ChIJQ7kGpLmAhYARKeCe2pDobWk",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2216
+  }
+]

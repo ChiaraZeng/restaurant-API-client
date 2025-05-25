@@ -1,0 +1,565 @@
+[
+  {
+    "fsq_id": "53d06bba498e6c801ea9816e",
+    "categories": [
+      {
+        "id": 13276,
+        "name": "Sushi Restaurant",
+        "short_name": "Sushi",
+        "plural_name": "Sushi Restaurants",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/sushi_",
+          "suffix": ".png"
+        }
+      }
+    ],
+    "chains": [],
+    "closed_bucket": "LikelyOpen",
+    "distance": 606,
+    "geocodes": {
+      "main": {
+        "latitude": 34.047744,
+        "longitude": -118.247727
+      },
+      "roof": {
+        "latitude": 34.047744,
+        "longitude": -118.247727
+      }
+    },
+    "link": "/v3/places/53d06bba498e6c801ea9816e",
+    "location": {
+      "address": "421 S Main St",
+      "census_block": "060372073062001",
+      "country": "US",
+      "cross_street": "at Winston St",
+      "dma": "Los Angeles",
+      "formatted_address": "421 S Main St (at Winston St), Los Angeles, CA 90013",
+      "locality": "Los Angeles",
+      "postcode": "90013",
+      "region": "CA"
+    },
+    "name": "KazuNori",
+    "related_places": {},
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fsq_id": "4e1f936a628469a57402c1db",
+    "categories": [
+      {
+        "id": 13148,
+        "name": "French Restaurant",
+        "short_name": "French",
+        "plural_name": "French Restaurants",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/french_",
+          "suffix": ".png"
+        }
+      }
+    ],
+    "chains": [],
+    "closed_bucket": "Unsure",
+    "distance": 799,
+    "geocodes": {
+      "main": {
+        "latitude": 34.048873,
+        "longitude": -118.251357
+      },
+      "roof": {
+        "latitude": 34.048873,
+        "longitude": -118.251357
+      }
+    },
+    "link": "/v3/places/4e1f936a628469a57402c1db",
+    "location": {
+      "address": "448 S Hill St",
+      "address_extended": "Ste 1312",
+      "census_block": "060372073051004",
+      "country": "US",
+      "cross_street": "13th Floor",
+      "dma": "Los Angeles",
+      "formatted_address": "448 S Hill St (13th Floor), Los Angeles, CA 90013",
+      "locality": "Los Angeles",
+      "postcode": "90013",
+      "region": "CA"
+    },
+    "name": "Perch",
+    "related_places": {},
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fsq_id": "53e9021e498e230096f69433",
+    "categories": [
+      {
+        "id": 13306,
+        "name": "Taco Restaurant",
+        "short_name": "Tacos",
+        "plural_name": "Taco Restaurants",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/taco_",
+          "suffix": ".png"
+        }
+      }
+    ],
+    "chains": [],
+    "closed_bucket": "LikelyOpen",
+    "distance": 896,
+    "geocodes": {
+      "main": {
+        "latitude": 34.046688,
+        "longitude": -118.250962
+      },
+      "roof": {
+        "latitude": 34.046688,
+        "longitude": -118.250962
+      }
+    },
+    "link": "/v3/places/53e9021e498e230096f69433",
+    "location": {
+      "address": "541 S Spring St",
+      "census_block": "060372073042000",
+      "country": "US",
+      "cross_street": "at 6th St",
+      "dma": "Los Angeles",
+      "formatted_address": "541 S Spring St (at 6th St), Los Angeles, CA 90013",
+      "locality": "Los Angeles",
+      "postcode": "90013",
+      "region": "CA"
+    },
+    "name": "Guisados DTLA",
+    "related_places": {
+      "parent": {
+        "fsq_id": "54394e82498e162399759d7e",
+        "categories": [
+          {
+            "id": 11148,
+            "name": "Property Management Office",
+            "short_name": "Property Management Office",
+            "plural_name": "Property Management Offices",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": 12094,
+            "name": "Residential Building",
+            "short_name": "Residence",
+            "plural_name": "Residential Buildings",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/building/home_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "name": "Spring Arcade Building"
+      }
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fsq_id": "53f105e5498e9e63662731bd",
+    "categories": [
+      {
+        "id": 13039,
+        "name": "Deli",
+        "short_name": "Deli",
+        "plural_name": "Delis",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/deli_",
+          "suffix": ".png"
+        }
+      },
+      {
+        "id": 13095,
+        "name": "Cajun and Creole Restaurant",
+        "short_name": "Cajun / Creole",
+        "plural_name": "Cajun and Creole Restaurants",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cajun_",
+          "suffix": ".png"
+        }
+      }
+    ],
+    "chains": [],
+    "closed_bucket": "LikelyOpen",
+    "distance": 1004,
+    "geocodes": {
+      "drop_off": {
+        "latitude": 34.059957,
+        "longitude": -118.237859
+      },
+      "main": {
+        "latitude": 34.060077,
+        "longitude": -118.238119
+      },
+      "roof": {
+        "latitude": 34.060077,
+        "longitude": -118.238119
+      }
+    },
+    "link": "/v3/places/53f105e5498e9e63662731bd",
+    "location": {
+      "address": "207 Ord St",
+      "census_block": "060372071021002",
+      "country": "US",
+      "cross_street": "",
+      "dma": "Los Angeles",
+      "formatted_address": "207 Ord St, Los Angeles, CA 90012",
+      "locality": "Los Angeles",
+      "postcode": "90012",
+      "region": "CA"
+    },
+    "name": "Little Jewel of New Orleans",
+    "related_places": {},
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fsq_id": "49b064dcf964a520bc521fe3",
+    "categories": [
+      {
+        "id": 13025,
+        "name": "Wine Bar",
+        "short_name": "Wine Bar",
+        "plural_name": "Wine Bars",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/winery_",
+          "suffix": ".png"
+        }
+      },
+      {
+        "id": 13058,
+        "name": "Hot Dog Joint",
+        "short_name": "Hot Dogs",
+        "plural_name": "Hot Dog Joints",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/hotdog_",
+          "suffix": ".png"
+        }
+      },
+      {
+        "id": 13165,
+        "name": "German Restaurant",
+        "short_name": "German",
+        "plural_name": "German Restaurants",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/german_",
+          "suffix": ".png"
+        }
+      }
+    ],
+    "chains": [],
+    "closed_bucket": "LikelyOpen",
+    "distance": 1018,
+    "geocodes": {
+      "main": {
+        "latitude": 34.045574,
+        "longitude": -118.235942
+      },
+      "roof": {
+        "latitude": 34.045574,
+        "longitude": -118.235942
+      }
+    },
+    "link": "/v3/places/49b064dcf964a520bc521fe3",
+    "location": {
+      "address": "800 E 3rd St",
+      "census_block": "060372060521030",
+      "country": "US",
+      "cross_street": "at Traction Ave",
+      "dma": "Los Angeles",
+      "formatted_address": "800 E 3rd St (at Traction Ave), Los Angeles, CA 90013",
+      "locality": "Los Angeles",
+      "postcode": "90013",
+      "region": "CA"
+    },
+    "name": "Wurstk\u00fcche",
+    "related_places": {},
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fsq_id": "4470358df964a52089331fe3",
+    "categories": [
+      {
+        "id": 13334,
+        "name": "Sandwich Spot",
+        "short_name": "Sandwich Spot",
+        "plural_name": "Sandwich Spots",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/deli_",
+          "suffix": ".png"
+        }
+      },
+      {
+        "id": 13000,
+        "name": "Dining and Drinking",
+        "short_name": "Dining and Drinking",
+        "plural_name": "Dining and Drinking",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+          "suffix": ".png"
+        }
+      }
+    ],
+    "chains": [],
+    "closed_bucket": "Unsure",
+    "distance": 1029,
+    "geocodes": {
+      "drop_off": {
+        "latitude": 34.059704,
+        "longitude": -118.236976
+      },
+      "main": {
+        "latitude": 34.05971,
+        "longitude": -118.23698
+      },
+      "roof": {
+        "latitude": 34.05971,
+        "longitude": -118.23698
+      }
+    },
+    "link": "/v3/places/4470358df964a52089331fe3",
+    "location": {
+      "address": "1001 N Alameda St",
+      "census_block": "060372071021001",
+      "country": "US",
+      "cross_street": "at Ord St",
+      "dma": "Los Angeles",
+      "formatted_address": "1001 N Alameda St (at Ord St), Los Angeles, CA 90012",
+      "locality": "Los Angeles",
+      "postcode": "90012",
+      "region": "CA"
+    },
+    "name": "The Original Philippe",
+    "related_places": {},
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fsq_id": "57ef0ba9498ea3b117dd4e1b",
+    "categories": [
+      {
+        "id": 13003,
+        "name": "Bar",
+        "short_name": "Bar",
+        "plural_name": "Bars",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+          "suffix": ".png"
+        }
+      },
+      {
+        "id": 13068,
+        "name": "American Restaurant",
+        "short_name": "American",
+        "plural_name": "American Restaurants",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+          "suffix": ".png"
+        }
+      }
+    ],
+    "chains": [],
+    "closed_bucket": "LikelyOpen",
+    "distance": 1044,
+    "geocodes": {
+      "main": {
+        "latitude": 34.046153,
+        "longitude": -118.234821
+      },
+      "roof": {
+        "latitude": 34.046153,
+        "longitude": -118.234821
+      }
+    },
+    "link": "/v3/places/57ef0ba9498ea3b117dd4e1b",
+    "location": {
+      "address": "907 E 3rd St",
+      "census_block": "060372060521028",
+      "country": "US",
+      "cross_street": "at S Garey St",
+      "dma": "Los Angeles",
+      "formatted_address": "907 E 3rd St (at S Garey St), Los Angeles, CA 90013",
+      "locality": "Los Angeles",
+      "postcode": "90013",
+      "region": "CA"
+    },
+    "name": "Manuela",
+    "related_places": {
+      "parent": {
+        "fsq_id": "56e1bb7c498e85d4f74b80d8",
+        "categories": [
+          {
+            "id": 10004,
+            "name": "Art Gallery",
+            "short_name": "Art Gallery",
+            "plural_name": "Art Galleries",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/artgallery_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "name": "Hauser & Wirth"
+      },
+      "children": [
+        {
+          "fsq_id": "60cd3fbe4423077b2898aaba",
+          "categories": [
+            {
+              "id": 13003,
+              "name": "Bar",
+              "short_name": "Bar",
+              "plural_name": "Bars",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Garden Bar"
+        }
+      ]
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fsq_id": "4b95164cf964a520888e34e3",
+    "categories": [
+      {
+        "id": 13002,
+        "name": "Bakery",
+        "short_name": "Bakery",
+        "plural_name": "Bakeries",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bakery_",
+          "suffix": ".png"
+        }
+      },
+      {
+        "id": 13102,
+        "name": "Cantonese Restaurant",
+        "short_name": "Cantonese",
+        "plural_name": "Cantonese Restaurants",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/asian_",
+          "suffix": ".png"
+        }
+      }
+    ],
+    "chains": [],
+    "closed_bucket": "LikelyOpen",
+    "distance": 1054,
+    "geocodes": {
+      "main": {
+        "latitude": 34.060321,
+        "longitude": -118.237911
+      },
+      "roof": {
+        "latitude": 34.060321,
+        "longitude": -118.237911
+      }
+    },
+    "link": "/v3/places/4b95164cf964a520888e34e3",
+    "location": {
+      "address": "715 N Spring St",
+      "census_block": "060372071021002",
+      "country": "US",
+      "cross_street": "",
+      "dma": "Los Angeles",
+      "formatted_address": "715 N Spring St, Los Angeles, CA 90012",
+      "locality": "Los Angeles",
+      "postcode": "90012",
+      "region": "CA"
+    },
+    "name": "Longs Family Pastry",
+    "related_places": {},
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fsq_id": "49e25d07f964a5200f621fe3",
+    "categories": [
+      {
+        "id": 13236,
+        "name": "Italian Restaurant",
+        "short_name": "Italian",
+        "plural_name": "Italian Restaurants",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/italian_",
+          "suffix": ".png"
+        }
+      }
+    ],
+    "chains": [],
+    "closed_bucket": "LikelyOpen",
+    "distance": 1311,
+    "geocodes": {
+      "main": {
+        "latitude": 34.046973,
+        "longitude": -118.256486
+      },
+      "roof": {
+        "latitude": 34.046973,
+        "longitude": -118.256486
+      }
+    },
+    "link": "/v3/places/49e25d07f964a5200f621fe3",
+    "location": {
+      "address": "700 S Grand Ave",
+      "address_extended": "Unit 90017",
+      "census_block": "060372077121003",
+      "country": "US",
+      "cross_street": "at 7th St",
+      "dma": "Los Angeles",
+      "formatted_address": "700 S Grand Ave (at 7th St), Los Angeles, CA 90017",
+      "locality": "Los Angeles",
+      "postcode": "90017",
+      "region": "CA"
+    },
+    "name": "Bottega Louie",
+    "related_places": {},
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fsq_id": "4c85b026d4e23704454e8588",
+    "categories": [
+      {
+        "id": 13276,
+        "name": "Sushi Restaurant",
+        "short_name": "Sushi",
+        "plural_name": "Sushi Restaurants",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/sushi_",
+          "suffix": ".png"
+        }
+      }
+    ],
+    "chains": [],
+    "closed_bucket": "Unsure",
+    "distance": 1335,
+    "geocodes": {
+      "main": {
+        "latitude": 34.047458,
+        "longitude": -118.257132
+      },
+      "roof": {
+        "latitude": 34.047458,
+        "longitude": -118.257132
+      }
+    },
+    "link": "/v3/places/4c85b026d4e23704454e8588",
+    "location": {
+      "address": "600 W 7th St",
+      "address_extended": "Ste 160",
+      "census_block": "060372077121000",
+      "country": "US",
+      "cross_street": "at Grand Ave",
+      "dma": "Los Angeles",
+      "formatted_address": "600 W 7th St (at Grand Ave), Los Angeles, CA 90017",
+      "locality": "Los Angeles",
+      "postcode": "90017",
+      "region": "CA"
+    },
+    "name": "SUGARFISH by sushi nozawa",
+    "related_places": {},
+    "timezone": "America/Los_Angeles"
+  }
+]

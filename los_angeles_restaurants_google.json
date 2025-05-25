@@ -1,0 +1,528 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "555-3 Mateo St, Los Angeles, CA 90013, United States",
+    "geometry": {
+      "location": {
+        "lat": 34.0402258,
+        "lng": -118.2331693
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.04156562989273,
+          "lng": -118.2317101701072
+        },
+        "southwest": {
+          "lat": 34.03886597010729,
+          "lng": -118.2344098298927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Girl & the Goat Los Angeles",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104315430881787977254\">Pravin Prakash</a>"
+        ],
+        "photo_reference": "AXQCQNRCH6kdrRhZBSoxdAM1FzrykWMxIIHnPB4wfLT3d62ex3f0lLkAqH48ZJiubU-QVlgQUxMVEEa6iFk2JKBJ_L5K3gFvQxUuJKXmmRee4Gb_uWBpFxzTIMYKKA6eqtoH63EBiPtN0Z44oMzi7VkOygyAvglwnvaLlqT3FlzlqH0z77PKaiHJJBE-FBHHnIF-RDEzQtM5N5QNMf06HH3tbr9BM4NSiXZ_U2j4jQtLkgQs84Om3q6yPxdUMquokfF2r2AoU1iUXYgFMIBFmV2C-Edsax14Ms2mPOI11aq3tVxoeBUgRMbSUcTbevTsWR7tNsW77NAh3Ok9cg0ACIr7SzYNhDrKhgNqr_85nRBWkY5UVOznq2YQy1s-aH_i6uBM-v1Q3_OrJ49tinHaV8AFkgOOCNu7ljPjdNABW6FpS3ngIL55rqJhBWXl8j6bqmPaX5k-lASTkJ83RqBwLCTBBH4dPlhl0SMHWyvOSWxSIhna7KykIkxlFjrV6j5Puasro6PRVxDnYyqFBP2NIEpPCY_jxB7bT7Tg3IAwE04f2_PWlOiphxLWB-md5EwPP0PH7bCSLTb8C3ePZA",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJXVodUFfHwoARe63Z7LSuUnY",
+    "plus_code": {
+      "compound_code": "2QR8+3P Los Angeles, California, USA",
+      "global_code": "85632QR8+3P"
+    },
+    "price_level": 3,
+    "rating": 4.8,
+    "reference": "ChIJXVodUFfHwoARe63Z7LSuUnY",
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 2587
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "8164 W 3rd St, Los Angeles, CA 90048, United States",
+    "geometry": {
+      "location": {
+        "lat": 34.0720931,
+        "lng": -118.3675088
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.07357827989271,
+          "lng": -118.3661335201073
+        },
+        "southwest": {
+          "lat": 34.07087862010727,
+          "lng": -118.3688331798927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "The Little Door",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3792,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109974389372291951507\">Henry Tang</a>"
+        ],
+        "photo_reference": "AXQCQNTyEGwF7a0oWAjufiVANDxWe-NKdOXbGyzMl-3M-hfS-XFXAVgRHmSGrv0pzBTyxNYF4B3v4dZoRlB_S0Cn9eTZP0GRUHljpeJK1oAPkXSnEdCYM77Xhopz-oyeojG2k6MJSBudJL7Ea4k8JSv_xEozhLNcAULO9uF2R-H0ez-G65paYPv4NB7hWFtPftT8s9433RA5JlqaLRwF3WojAT0NRAN_epe5KBRZW3knygRkwq1S8mF8Ht166wy-PVL66Qs9XT4TOKNTMH_b_VmhtJgM-Jy-Yu5oM57KuUgIlHKbl5K8Fq3Ms9Sp1bUZoLa-0S8-AZt2dupIXAl08UdIO5mlMtz3fbo5e0bMxb4Px-1z28oFsClpQAgeabfYArAPXz_QeFKUQDepEJG-njQ9WojZSeFNN4h5h0mUc0i2Fmp2AOzqXRjY2J6uDh45b7G7mkgJE-6NL-j-PmU8n6EB7oV032raImalzfOmd61iv7a3JxPXBeqrdIZPjA32PFshh5knh0ut18lyc9XSrhR43AmHho2aS6RRDcaTnXswyZzqdjfSEptU2tLP5aBKlVjo1tbh4-uzSOClcA",
+        "width": 5056
+      }
+    ],
+    "place_id": "ChIJn27gbza5woARGlcPgv8gNn4",
+    "plus_code": {
+      "compound_code": "3JCJ+RX Los Angeles, California, USA",
+      "global_code": "85633JCJ+RX"
+    },
+    "price_level": 4,
+    "rating": 4.5,
+    "reference": "ChIJn27gbza5woARGlcPgv8gNn4",
+    "types": [
+      "bar",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 1136
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "624 S La Brea Ave, Los Angeles, CA 90036, United States",
+    "geometry": {
+      "location": {
+        "lat": 34.0640856,
+        "lng": -118.3437963
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.06542157989272,
+          "lng": -118.3424325201073
+        },
+        "southwest": {
+          "lat": 34.06272192010728,
+          "lng": -118.3451321798927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "R\u00e9publique Caf\u00e9 Bakery & R\u00e9publique Restaurant",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4912,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108008875180477899229\">R\u00e9publique Caf\u00e9 Bakery &amp; R\u00e9publique Restaurant</a>"
+        ],
+        "photo_reference": "AXQCQNRvetX5E4jRODlsoF0Ij40UqZ7-HJGo__xK3-oTSa5WfaT5FY32dhTigYhYtrND2xcxjGKwfB6vUk19mt-lNsQVqED4ne87QBHfGxTEdg0_F-QOX1ko4JGP0Z7Pn4ebzpHZd3xPf11EkhEl4QTKG7NKxFkErALZPdTvkCLYCpiS1HVBr34whp4jiE2Piq5NyBJ4xu6aRbUWYL0mKmxZYaCQOOCE1593OMmqf5uS_5S6Wgnc3xufIFvuSitpmNc7-N7hBA0NDOuEIfCRncqOaf62K_SHuse1Mwl0YpuYll78I0Xan4Q",
+        "width": 7360
+      }
+    ],
+    "place_id": "ChIJqaA5zt-4woARHGIEp3XlsZo",
+    "plus_code": {
+      "compound_code": "3M74+MG Los Angeles, California, USA",
+      "global_code": "85633M74+MG"
+    },
+    "price_level": 3,
+    "rating": 4.5,
+    "reference": "ChIJqaA5zt-4woARHGIEp3XlsZo",
+    "types": [
+      "cafe",
+      "bar",
+      "bakery",
+      "store",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 6386
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "448 S Hill St, Los Angeles, CA 90013, United States",
+    "geometry": {
+      "location": {
+        "lat": 34.0489971,
+        "lng": -118.2514145
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.05036962989272,
+          "lng": -118.2501260701072
+        },
+        "southwest": {
+          "lat": 34.04766997010727,
+          "lng": -118.2528257298927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Perch",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1467,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114027967891176538185\">Perch</a>"
+        ],
+        "photo_reference": "AXQCQNSOlciLhdo1a8FaQwIxqmIo6HLgajEGPUATEmj6AgC976_hEGUTMBDR_9YB5z2NzNYhJbSjfgCrKk0bnqk3R4iKOOoxHZZMOMd1rhAIBlKwIxPF86Ao0wkW7fLweyBQR8S61U8uJGio233QDY7N0tKW4CWxKdGhewFV6sN-zSCzwGsQfCSv_ktSqRx26A790zXkwKJGbSeg9VBkuOOg_mV0Dl026k5RpDQLP_uUeU44_2arK2TOenuctWjxiAaPsno8s54Xrv64XwRXWmRTZtPCTOVSJ2kAhsfMprHHcqIb1IDZLOw",
+        "width": 2200
+      }
+    ],
+    "place_id": "ChIJqbKnF0vGwoARREUrVhYGqTU",
+    "plus_code": {
+      "compound_code": "2PXX+HC Los Angeles, California, USA",
+      "global_code": "85632PXX+HC"
+    },
+    "price_level": 3,
+    "rating": 4.4,
+    "reference": "ChIJqbKnF0vGwoARREUrVhYGqTU",
+    "types": [
+      "bar",
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 6921
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "2121 E 7th Pl, Los Angeles, CA 90021, United States",
+    "geometry": {
+      "location": {
+        "lat": 34.0336488,
+        "lng": -118.2292434
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.03496327989272,
+          "lng": -118.2278989701072
+        },
+        "southwest": {
+          "lat": 34.03226362010728,
+          "lng": -118.2305986298927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Bestia",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 2000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107180911084862312527\">1992 Nguy\u1ec5n Vi\u1ec7t Trung</a>"
+        ],
+        "photo_reference": "AXQCQNTkzt4kzrToKkC_l18HqL7YdpSDhpvUumzp0BDsKeqh5e5B1fhw-v8tOSD4B8ANpdmqENb9W8RcsoHz4fgbvdeEC1kH7T2KcGYr1pHYzWI-7KnBtIzXuUmssmv-yG64wQ5Uw7AqVZjikW--4_eM3LKnJGX1Wt6rAzIntrh5DwwpMXjnjmOFHGEv0XxAagc5DW8UHWq0jUqXNtYSCqcMfAKbXXAAZwwXXcVJnIUVYLiUG6D846YCovDAZ0aOaDwmbfP7QIhghrKR76PYH-s4zR5IZfcSawQI7va_Wi2IF3D1vryW4-y1iWfZsXFKgKn6o3C5CwFbk_gVJYIb4AYZbFL6w3oPIiQ7nI7eHYRkZaDHKv8fgbuzSFy6WE7B-MBF-C0-zAPQ8n125D1qbZeM7K5i0yBRFOJkLcyasQnXMc4TjA6rKZo7BP0D1OXO4RGpIzEQEZE1C21rAhkpcMfFxOE5uTupKIOpk92rW7RXqmW5qR2sTN2YiXmlim8QhZZijKuyYYiZdUTg6S0H4bvQBIVdHXbUjyVDnU8LR4wHblwAZIs0f7ZvmbR8gqdtce4nsjhozIyt",
+        "width": 3000
+      }
+    ],
+    "place_id": "ChIJSRvZ1yHGwoARcLrfvc-APl4",
+    "plus_code": {
+      "compound_code": "2QMC+F8 Los Angeles, California, USA",
+      "global_code": "85632QMC+F8"
+    },
+    "price_level": 3,
+    "rating": 4.6,
+    "reference": "ChIJSRvZ1yHGwoARcLrfvc-APl4",
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 3713
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "633 W 5th St 71st floor, Los Angeles, CA 90071, United States",
+    "geometry": {
+      "location": {
+        "lat": 34.0510292,
+        "lng": -118.2544174
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.05217892989272,
+          "lng": -118.2531613201073
+        },
+        "southwest": {
+          "lat": 34.04947927010727,
+          "lng": -118.2558609798927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "71Above",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103043536880239493611\">Jing Guan</a>"
+        ],
+        "photo_reference": "AXQCQNSVVo0JJVxr6HE8ua5OG91yQhrr3Fi0C9mxh_yeMTMmSPf5fIe6roI42-FmFyCHwOYJoo5gXDIwzGsk35t4fJa13UZiQIZYzwdyL3gKp7SMwMZhj5hwE1zQf30_eTwUFB1JhfaK4GhC6nmYrB2qQ0vr2iWtFoo0CO9zVNfCV-tqfYrKHSbDjfPrsnNSJjyuULWZwNUxM1z2-4JxINKxTGyRzsJKeGZbDYDT4yu1nvRGMlTu6Kxp8w39AheyHlCcSfxO5YuBGSRmOxsTRvNQnT3kZda06lqIGt-JeOuorUMQFzjf2RieRZp64_xWFUPprt0Tgy6wpCwB7gsNZbgc8x3xZbCD4oFq7j6cIcmfUwTxwNCvqI4ZDXFY0ljqhd3Fqg_FxbUen-bb0Ydt_J06TlCeQ7wi_P-_T56hS6yTbFXm4HctpJ_RZs2kIwfMr-4l2-sUOEG2gSwyBldQDndmxMbXmdHx21ihn8PpT9er-f3lDMQTbM3M4mCmtdWQP9xZUqhIca1LYRPD9ZXd2FBJzeKDMYK2Zk9xYwXZKEFHy0LBlATLnsNUxEtAJ3kSMiNCXCjOmnCtFwztng",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJg4Tqa7PHwoARrWA-2kwYfDE",
+    "plus_code": {
+      "compound_code": "3P2W+C6 Los Angeles, California, USA",
+      "global_code": "85633P2W+C6"
+    },
+    "price_level": 4,
+    "rating": 4.5,
+    "reference": "ChIJg4Tqa7PHwoARrWA-2kwYfDE",
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 2573
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "6610 Melrose Ave, Los Angeles, CA 90038, United States",
+    "geometry": {
+      "location": {
+        "lat": 34.08333,
+        "lng": -118.339087
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.08472207989271,
+          "lng": -118.3377378701073
+        },
+        "southwest": {
+          "lat": 34.08202242010727,
+          "lng": -118.3404375298927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Chi Spacca",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 770,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114522203412719707527\">chi SPACCA</a>"
+        ],
+        "photo_reference": "AXQCQNRFriCxdI50DKueY5-XLBE63PMmYqAFhPQ8fMn1UCB07fKWoXnZlCRp96qLa6u17o9qSx6fTbswyQbVGGMbPXH7YJJlyCL-VCVlCgo0FarOUbq9P3E6yGqyiQ2xRtK5NDeegr0mys08lORE3QnCgCE0SCY9fHlEo2IYHLot-hd2c1KseSoj4qYEWj6byM5iyxtR5JmGxPODnhZhCIYdiD11jdiEkLzzqv-Y31wUb3-3KjS0MnOWHIhiHCvPXmpTwkOMmF5HuGAEM4kOx1LUqIw1WJdMJhq5CDvxXB0NW64WS7aFZHw",
+        "width": 1176
+      }
+    ],
+    "place_id": "ChIJwbQBbdO4woARHT4khoXPnok",
+    "plus_code": {
+      "compound_code": "3MM6+89 Los Angeles, California, USA",
+      "global_code": "85633MM6+89"
+    },
+    "price_level": 4,
+    "rating": 4.7,
+    "reference": "ChIJwbQBbdO4woARHT4khoXPnok",
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 438
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "1001 N Alameda St, Los Angeles, CA 90012, United States",
+    "geometry": {
+      "location": {
+        "lat": 34.0596429,
+        "lng": -118.2370588
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.06095057989271,
+          "lng": -118.2356368201072
+        },
+        "southwest": {
+          "lat": 34.05825092010727,
+          "lng": -118.2383364798927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Philippe The Original",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2736,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113237928679493189591\">Parrish Rodr\u00edguez</a>"
+        ],
+        "photo_reference": "AXQCQNTZ2EEeuOn-PDW5UcHyaeFJHii50lOQo5BZM8zWqcdMHd2SY0ep-0X2p54RNERX6k-D0AAnnHBAJ5QHR4gxJxLWWiWmsR5b1klJIrjF-r7sbRo-BLOEq1ik4ranq8Qq_0Tb1GxXnlz23u-FTRRf08mOfWUIN-LLfVlStJ4xqmKV9euTTiVTTcQ1IqmdjKNxfESer3zJK00kLj7U5yLjYhRovYaWYmebuBfjghbne98gk1WthIo39zfLbLKVcWmwZ0DnirPVjUB3ZiK_yQWGTmIRVSGZnczVWf9oKmrqT1tM_aIh3FgHY_vovJLc2y7-UHOo0bjsPzbuCzg-74oHyctJhsnxCQ_WdPjdJKwoIKNt19maL-MOETqmEW4QNmj_K5qPyGRcbuB2avUyLvTgK6fXS5K5H8cIluK4wTWGcFHsXhaVvpfZpm8uyQgubfYWkQO_Do-kjVaoqTcSQtr8NVqZDR6gaHLq7CpqnPovhKTYqFNcfAHi6ojQWV9C0qJ28ArBPHIHvljlVN1SXzhic0Br6cIWnbDM6CXEgqGWeqJ0jxD6JzVJWMXN7kn_SfLxmPwmYB14",
+        "width": 3648
+      }
+    ],
+    "place_id": "ChIJd9NcMVvGwoARpVcjtJfZBQo",
+    "plus_code": {
+      "compound_code": "3Q57+V5 Los Angeles, California, USA",
+      "global_code": "85633Q57+V5"
+    },
+    "price_level": 1,
+    "rating": 4.6,
+    "reference": "ChIJd9NcMVvGwoARpVcjtJfZBQo",
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 11521
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "544 S Grand Ave, Los Angeles, CA 90071, United States",
+    "geometry": {
+      "location": {
+        "lat": 34.0490403,
+        "lng": -118.2547066
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.05044657989272,
+          "lng": -118.2534578201073
+        },
+        "southwest": {
+          "lat": 34.04774692010727,
+          "lng": -118.2561574798927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Water Grill",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 2600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101161723137689186454\">k hirano</a>"
+        ],
+        "photo_reference": "AXQCQNTu-akJ6faFMqiAc6sRsO_v1Rf0EFMinauGLlT3rJ9SwdTI9-7WRXyB2Y5bNRGDj7EzGeGgYnXP6H4eVOjxfws9Kgdh5w0_ez1TIbvmun7NfL6DN8KalKsrLANJ6W52r2QaaP6U0sbB4R5cX_UWzREy04Czlj7OF2rooA9X7bnkiiNNqPWbvYpknanUs-fvzraUHobE2Jm1ctxdfNZ2DHDI0IRrcS6VZR_KdTlj1cKziw0GXQL4cDIIHBqZ8tg0Sos0GIWZ5hLXPUgxqz-J-0n9mtsRCkC-He6Lj8SBd9UVdFytWoYpLJRX6jzDBbkrKVW8eK9oi7H-ljLIrpgGAz599faF0WlvtZVkVV9H_383sEpS3hI36UyCkUgIES3xPp3p_DQufuwr-d9vAp_LboisGn7rNoSPuetfIrOm2wpbZfi3bIoNNo7TrIIK7mItkQb0Odzkx-rcFciU-1ZoKGdRSNc4e1GOhqYulzMBfTpE-iH-lR0dRGrZV_uLwBzWf0EhLSS74Hdcvj7UQx26uqSO-jNp9-a5fGQF5DjUl6kt1iq8MgANqCuLfIewOG1-KKi-ZHxHf1qveg",
+        "width": 4624
+      }
+    ],
+    "place_id": "ChIJx-cckLTHwoARfAkrqMmW2So",
+    "plus_code": {
+      "compound_code": "2PXW+J4 Los Angeles, California, USA",
+      "global_code": "85632PXW+J4"
+    },
+    "price_level": 3,
+    "rating": 4.5,
+    "reference": "ChIJx-cckLTHwoARfAkrqMmW2So",
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 2057
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "formatted_address": "114 E 2nd St, Los Angeles, CA 90012, United States",
+    "geometry": {
+      "location": {
+        "lat": 34.0506001,
+        "lng": -118.244075
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.05198957989273,
+          "lng": -118.2427112701073
+        },
+        "southwest": {
+          "lat": 34.04928992010728,
+          "lng": -118.2454109298927
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Redbird",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115138562580402046968\">Jeremy Li</a>"
+        ],
+        "photo_reference": "AXQCQNT_HPeiydOQQRaTSuHN2zHi2TfN9l9wbwFHUIR-yy1_gHIqqmIbFyLP-_PTyN62JYVEaYo9Eo3P0juq2wd6CUF2GeF6V9JsEiaTDTClflOwY0j2HAupC4JDgm-iKiHoIxAMd0GvuQuck7r5TBu4UVcN9yg_7_ifG-g0ve4fpfXJttQVTwZsr7PpIYzvu29jQjv0GQ_9s2qk1S6vtaTTA-ZY69NFPA4KsKKlZKGYakjvrC4hIEHNucZlVwoC7lsqVz7ZZR17ZHIHFVVjhy_0j40WvSs-KyGyJKsMkUjGrDUcPueoSDz1dgjmAzlO8Z959pg6iYMXR0ZZi2vj3d2N8d6u1IWi8xKBkOGIy4IL_8QWpEEzYYGJe7pTvatqDZCr1EV5z-tnpts8IbYAGeNeTIkW5Qm99HTLE1fsMyICDoKAtcZyhFjV4LUex5Ap1l9IqAS3TH-hWHsiQs8hsJO9L9u4L63U4ssDotVJSaSJbIqN_ZNJgoXZMupYUC9HCvLflg92hIYYsB0JewqBuqc9EvKqssEsNoYZnBcsflpz9iQsuzlT3rzWDK4ONL4A0seUq7P5tJ7k",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJv4yVGknGwoARC_5zwy3zU5M",
+    "plus_code": {
+      "compound_code": "3Q24+69 Los Angeles, California, USA",
+      "global_code": "85633Q24+69"
+    },
+    "price_level": 3,
+    "rating": 4.6,
+    "reference": "ChIJv4yVGknGwoARC_5zwy3zU5M",
+    "types": [
+      "restaurant",
+      "point_of_interest",
+      "food",
+      "establishment"
+    ],
+    "user_ratings_total": 1657
+  }
+]

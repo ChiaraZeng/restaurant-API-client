@@ -1,0 +1,818 @@
+[
+  {
+    "fsq_id": "5d5f24ec09484500079aee00",
+    "categories": [
+      {
+        "id": 13306,
+        "name": "Taco Restaurant",
+        "short_name": "Tacos",
+        "plural_name": "Taco Restaurants",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/taco_",
+          "suffix": ".png"
+        }
+      }
+    ],
+    "chains": [],
+    "closed_bucket": "LikelyOpen",
+    "distance": 283,
+    "geocodes": {
+      "drop_off": {
+        "latitude": 40.71416,
+        "longitude": -74.008566
+      },
+      "main": {
+        "latitude": 40.71429,
+        "longitude": -74.00873
+      },
+      "roof": {
+        "latitude": 40.71429,
+        "longitude": -74.00873
+      }
+    },
+    "link": "/v3/places/5d5f24ec09484500079aee00",
+    "location": {
+      "address": "136 Church St",
+      "census_block": "360610021001006",
+      "country": "US",
+      "cross_street": "btw Murray & Warren",
+      "dma": "New York",
+      "formatted_address": "136 Church St (btw Murray & Warren), New York, NY 10007",
+      "locality": "New York",
+      "postcode": "10007",
+      "region": "NY"
+    },
+    "name": "Los Tacos No. 1",
+    "related_places": {},
+    "timezone": "America/New_York"
+  },
+  {
+    "fsq_id": "5c6f03f30802d4002c16884c",
+    "categories": [
+      {
+        "id": 13064,
+        "name": "Pizzeria",
+        "short_name": "Pizza",
+        "plural_name": "Pizzerias",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+          "suffix": ".png"
+        }
+      }
+    ],
+    "chains": [],
+    "closed_bucket": "LikelyOpen",
+    "distance": 327,
+    "geocodes": {
+      "drop_off": {
+        "latitude": 40.710153,
+        "longitude": -74.007611
+      },
+      "main": {
+        "latitude": 40.710003,
+        "longitude": -74.007687
+      },
+      "roof": {
+        "latitude": 40.710003,
+        "longitude": -74.007687
+      }
+    },
+    "link": "/v3/places/5c6f03f30802d4002c16884c",
+    "location": {
+      "address": "124 Fulton St",
+      "census_block": "360610015022000",
+      "country": "US",
+      "cross_street": "at Nassau St",
+      "dma": "New York",
+      "formatted_address": "124 Fulton St (at Nassau St), New York, NY 10038",
+      "locality": "New York",
+      "postcode": "10038",
+      "region": "NY"
+    },
+    "name": "Joe's Pizza",
+    "related_places": {},
+    "timezone": "America/New_York"
+  },
+  {
+    "fsq_id": "4f627061e4b05c1d57815977",
+    "categories": [
+      {
+        "id": 13302,
+        "name": "Mediterranean Restaurant",
+        "short_name": "Mediterranean",
+        "plural_name": "Mediterranean Restaurants",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/mediterranean_",
+          "suffix": ".png"
+        }
+      },
+      {
+        "id": 13303,
+        "name": "Mexican Restaurant",
+        "short_name": "Mexican",
+        "plural_name": "Mexican Restaurants",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/mexican_",
+          "suffix": ".png"
+        }
+      },
+      {
+        "id": 13314,
+        "name": "New American Restaurant",
+        "short_name": "New American",
+        "plural_name": "New American Restaurants",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/newamerican_",
+          "suffix": ".png"
+        }
+      }
+    ],
+    "chains": [],
+    "closed_bucket": "Unsure",
+    "distance": 439,
+    "geocodes": {
+      "main": {
+        "latitude": 40.716911,
+        "longitude": -74.00556
+      },
+      "roof": {
+        "latitude": 40.716911,
+        "longitude": -74.00556
+      }
+    },
+    "link": "/v3/places/4f627061e4b05c1d57815977",
+    "location": {
+      "address": "77 Worth St",
+      "census_block": "360610033003000",
+      "country": "US",
+      "cross_street": "btwn Broadway & Church St",
+      "dma": "New York",
+      "formatted_address": "77 Worth St (btwn Broadway & Church St), New York, NY 10013",
+      "locality": "New York",
+      "postcode": "10013",
+      "region": "NY"
+    },
+    "name": "Atera",
+    "related_places": {},
+    "timezone": "America/New_York"
+  },
+  {
+    "fsq_id": "3fd66200f964a52083e61ee3",
+    "categories": [
+      {
+        "id": 13068,
+        "name": "American Restaurant",
+        "short_name": "American",
+        "plural_name": "American Restaurants",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+          "suffix": ".png"
+        }
+      },
+      {
+        "id": 13148,
+        "name": "French Restaurant",
+        "short_name": "French",
+        "plural_name": "French Restaurants",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/french_",
+          "suffix": ".png"
+        }
+      },
+      {
+        "id": 13236,
+        "name": "Italian Restaurant",
+        "short_name": "Italian",
+        "plural_name": "Italian Restaurants",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/italian_",
+          "suffix": ".png"
+        }
+      }
+    ],
+    "chains": [],
+    "closed_bucket": "LikelyOpen",
+    "distance": 498,
+    "geocodes": {
+      "main": {
+        "latitude": 40.716902,
+        "longitude": -74.007873
+      },
+      "roof": {
+        "latitude": 40.716902,
+        "longitude": -74.007873
+      }
+    },
+    "link": "/v3/places/3fd66200f964a52083e61ee3",
+    "location": {
+      "address": "145 W Broadway",
+      "address_extended": "Frnt A",
+      "census_block": "360610033001011",
+      "country": "US",
+      "cross_street": "at Thomas St",
+      "dma": "New York",
+      "formatted_address": "145 W Broadway (at Thomas St), New York, NY 10013",
+      "locality": "New York",
+      "postcode": "10013",
+      "region": "NY"
+    },
+    "name": "The Odeon",
+    "related_places": {},
+    "timezone": "America/New_York"
+  },
+  {
+    "fsq_id": "56d1c7e2cd105fe2c5c705b6",
+    "categories": [
+      {
+        "id": 13003,
+        "name": "Bar",
+        "short_name": "Bar",
+        "plural_name": "Bars",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+          "suffix": ".png"
+        }
+      },
+      {
+        "id": 13034,
+        "name": "Caf\u00e9",
+        "short_name": "Caf\u00e9",
+        "plural_name": "Caf\u00e9s",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+          "suffix": ".png"
+        }
+      },
+      {
+        "id": 13073,
+        "name": "Australian Restaurant",
+        "short_name": "Australian",
+        "plural_name": "Australian Restaurants",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/australian_",
+          "suffix": ".png"
+        }
+      }
+    ],
+    "chains": [],
+    "closed_bucket": "Unsure",
+    "distance": 571,
+    "geocodes": {
+      "drop_off": {
+        "latitude": 40.717867,
+        "longitude": -74.005652
+      },
+      "main": {
+        "latitude": 40.717723,
+        "longitude": -74.005461
+      },
+      "roof": {
+        "latitude": 40.717723,
+        "longitude": -74.005461
+      }
+    },
+    "link": "/v3/places/56d1c7e2cd105fe2c5c705b6",
+    "location": {
+      "address": "251 Church St",
+      "census_block": "360610033004005",
+      "country": "US",
+      "cross_street": "",
+      "dma": "New York",
+      "formatted_address": "251 Church St, New York, NY 10013",
+      "locality": "New York",
+      "postcode": "10013",
+      "region": "NY"
+    },
+    "name": "Two Hands",
+    "related_places": {},
+    "timezone": "America/New_York"
+  },
+  {
+    "fsq_id": "619942ed69fb78348f0ece7c",
+    "categories": [
+      {
+        "id": 13009,
+        "name": "Cocktail Bar",
+        "short_name": "Cocktail",
+        "plural_name": "Cocktail Bars",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_",
+          "suffix": ".png"
+        }
+      },
+      {
+        "id": 13306,
+        "name": "Taco Restaurant",
+        "short_name": "Tacos",
+        "plural_name": "Taco Restaurants",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/taco_",
+          "suffix": ".png"
+        }
+      },
+      {
+        "id": 13347,
+        "name": "Tapas Restaurant",
+        "short_name": "Tapas",
+        "plural_name": "Tapas Restaurants",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/tapas_",
+          "suffix": ".png"
+        }
+      }
+    ],
+    "chains": [],
+    "closed_bucket": "Unsure",
+    "distance": 608,
+    "geocodes": {
+      "drop_off": {
+        "latitude": 40.707421,
+        "longitude": -74.007592
+      },
+      "main": {
+        "latitude": 40.707585,
+        "longitude": -74.007373
+      },
+      "roof": {
+        "latitude": 40.707585,
+        "longitude": -74.007373
+      }
+    },
+    "link": "/v3/places/619942ed69fb78348f0ece7c",
+    "location": {
+      "address": "83 Maiden Ln",
+      "census_block": "360610015022005",
+      "country": "US",
+      "cross_street": "Gold Street",
+      "dma": "New York",
+      "formatted_address": "83 Maiden Ln (Gold Street), New York, NY 10038",
+      "locality": "New York",
+      "postcode": "10038",
+      "region": "NY"
+    },
+    "name": "Mezcali",
+    "related_places": {},
+    "timezone": "America/New_York"
+  },
+  {
+    "fsq_id": "4bbb9dbded7776b0e1ad3e51",
+    "categories": [
+      {
+        "id": 13072,
+        "name": "Asian Restaurant",
+        "short_name": "Asian",
+        "plural_name": "Asian Restaurants",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/asian_",
+          "suffix": ".png"
+        }
+      },
+      {
+        "id": 13223,
+        "name": "South Indian Restaurant",
+        "short_name": "South Indian",
+        "plural_name": "South Indian Restaurants",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+          "suffix": ".png"
+        }
+      }
+    ],
+    "chains": [],
+    "closed_bucket": "Unsure",
+    "distance": 748,
+    "geocodes": {
+      "main": {
+        "latitude": 40.719136,
+        "longitude": -74.009009
+      },
+      "roof": {
+        "latitude": 40.719136,
+        "longitude": -74.009009
+      }
+    },
+    "link": "/v3/places/4bbb9dbded7776b0e1ad3e51",
+    "location": {
+      "address": "99 Hudson St",
+      "address_extended": "Frnt A",
+      "census_block": "360610039003004",
+      "country": "US",
+      "cross_street": "at Franklin St",
+      "dma": "New York",
+      "formatted_address": "99 Hudson St (at Franklin St), New York, NY 10013",
+      "locality": "New York",
+      "postcode": "10013",
+      "region": "NY"
+    },
+    "name": "Tamarind Tribeca",
+    "related_places": {},
+    "timezone": "America/New_York"
+  },
+  {
+    "fsq_id": "62eedc1ed60fb254e872a4b8",
+    "categories": [
+      {
+        "id": 13052,
+        "name": "Food Court",
+        "short_name": "Food Court",
+        "plural_name": "Food Courts",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_foodcourt_",
+          "suffix": ".png"
+        }
+      }
+    ],
+    "chains": [],
+    "closed_bucket": "Unsure",
+    "distance": 803,
+    "geocodes": {
+      "main": {
+        "latitude": 40.706217,
+        "longitude": -74.002169
+      },
+      "roof": {
+        "latitude": 40.706217,
+        "longitude": -74.002169
+      }
+    },
+    "link": "/v3/places/62eedc1ed60fb254e872a4b8",
+    "location": {
+      "address": "96 South St",
+      "census_block": "360610015013011",
+      "country": "US",
+      "dma": "New York",
+      "formatted_address": "96 South St, New York, NY 10038",
+      "locality": "New York",
+      "postcode": "10038",
+      "region": "NY"
+    },
+    "name": "Tin Building by Jean-Georges",
+    "related_places": {
+      "children": [
+        {
+          "fsq_id": "630bd2d2b1051611a57affff",
+          "categories": [
+            {
+              "id": 13377,
+              "name": "Vegan and Vegetarian Restaurant",
+              "short_name": "Vegan and Vegetarian Restaurant",
+              "plural_name": "Vegan and Vegetarian Restaurants",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/vegetarian_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "abcV"
+        },
+        {
+          "fsq_id": "62f7de2b823255667a5bbee3",
+          "categories": [
+            {
+              "id": 13306,
+              "name": "Taco Restaurant",
+              "short_name": "Tacos",
+              "plural_name": "Taco Restaurants",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/taco_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Taquito"
+        },
+        {
+          "fsq_id": "6323572329f27d0575050a27",
+          "categories": [
+            {
+              "id": 13148,
+              "name": "French Restaurant",
+              "short_name": "French",
+              "plural_name": "French Restaurants",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/french_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "T.Brasserie"
+        },
+        {
+          "fsq_id": "6314dae7edb4fe5c48aafc61",
+          "categories": [
+            {
+              "id": 13028,
+              "name": "Breakfast Spot",
+              "short_name": "Breakfast",
+              "plural_name": "Breakfast Spots",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/breakfast_",
+                "suffix": ".png"
+              }
+            },
+            {
+              "id": 13031,
+              "name": "Burger Joint",
+              "short_name": "Burgers",
+              "plural_name": "Burger Joints",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/burger_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Double Yolk / Burger Bar"
+        },
+        {
+          "fsq_id": "63bb4a262a3bb20a00359dec",
+          "categories": [
+            {
+              "id": 13338,
+              "name": "Seafood Restaurant",
+              "short_name": "Seafood",
+              "plural_name": "Seafood Restaurants",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/seafood_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Fulton Fish Co."
+        },
+        {
+          "fsq_id": "62f6bd5a24eefd367e7dc4a1",
+          "categories": [
+            {
+              "id": 13099,
+              "name": "Chinese Restaurant",
+              "short_name": "Chinese",
+              "plural_name": "Chinese Restaurants",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/asian_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "House of the Red Pearl"
+        },
+        {
+          "fsq_id": "6341fb6600bee75ec8be95d5",
+          "categories": [
+            {
+              "id": 13334,
+              "name": "Sandwich Spot",
+              "short_name": "Sandwich Spot",
+              "plural_name": "Sandwich Spots",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/deli_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Sandwich & Salad"
+        },
+        {
+          "fsq_id": "63bb4a83dfad2710408550cd",
+          "categories": [
+            {
+              "id": 13002,
+              "name": "Bakery",
+              "short_name": "Bakery",
+              "plural_name": "Bakeries",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bakery_",
+                "suffix": ".png"
+              }
+            },
+            {
+              "id": 13047,
+              "name": "Pastry Shop",
+              "short_name": "Pastry",
+              "plural_name": "Pastry Shops",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/dessert_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "P\u00e2tisserie"
+        },
+        {
+          "fsq_id": "62eee26af7aa8b1dc284fbed",
+          "categories": [
+            {
+              "id": 13064,
+              "name": "Pizzeria",
+              "short_name": "Pizza",
+              "plural_name": "Pizzerias",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "The Frenchman's Dough"
+        },
+        {
+          "fsq_id": "633881b27301673c11ad3874",
+          "categories": [
+            {
+              "id": 13034,
+              "name": "Caf\u00e9",
+              "short_name": "Caf\u00e9",
+              "plural_name": "Caf\u00e9s",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+                "suffix": ".png"
+              }
+            },
+            {
+              "id": 13035,
+              "name": "Coffee Shop",
+              "short_name": "Coffee Shop",
+              "plural_name": "Coffee Shops",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "T Cafe"
+        },
+        {
+          "fsq_id": "6339cb023186e816fe42d2f0",
+          "categories": [
+            {
+              "id": 17096,
+              "name": "Miscellaneous Store",
+              "short_name": "Store",
+              "plural_name": "Miscellaneous Stores",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/default_",
+                "suffix": ".png"
+              }
+            },
+            {
+              "id": 13072,
+              "name": "Asian Restaurant",
+              "short_name": "Asian",
+              "plural_name": "Asian Restaurants",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/asian_",
+                "suffix": ".png"
+              }
+            },
+            {
+              "id": 17069,
+              "name": "Grocery Store",
+              "short_name": "Grocery Store",
+              "plural_name": "Grocery Stores",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Merchantile East"
+        }
+      ]
+    },
+    "timezone": "America/New_York"
+  },
+  {
+    "fsq_id": "5894c9a15e56b417cf79e553",
+    "categories": [
+      {
+        "id": 13099,
+        "name": "Chinese Restaurant",
+        "short_name": "Chinese",
+        "plural_name": "Chinese Restaurants",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/asian_",
+          "suffix": ".png"
+        }
+      },
+      {
+        "id": 13315,
+        "name": "Noodle Restaurant",
+        "short_name": "Noodles",
+        "plural_name": "Noodle Restaurants",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/ramen_",
+          "suffix": ".png"
+        }
+      }
+    ],
+    "chains": [
+      {
+        "id": "431f5eb2-3741-48f6-bba4-6071a0feff02",
+        "name": "Xi'an Famous Foods"
+      }
+    ],
+    "closed_bucket": "Unsure",
+    "distance": 783,
+    "geocodes": {
+      "drop_off": {
+        "latitude": 40.715225,
+        "longitude": -73.997321
+      },
+      "main": {
+        "latitude": 40.715084,
+        "longitude": -73.99737
+      },
+      "roof": {
+        "latitude": 40.715084,
+        "longitude": -73.99737
+      }
+    },
+    "link": "/v3/places/5894c9a15e56b417cf79e553",
+    "location": {
+      "address": "45 Bayard St",
+      "census_block": "360610029022002",
+      "country": "US",
+      "cross_street": "btw Elizabeth & Bowery",
+      "dma": "New York",
+      "formatted_address": "45 Bayard St (btw Elizabeth & Bowery), New York, NY 10013",
+      "locality": "New York",
+      "postcode": "10013",
+      "region": "NY"
+    },
+    "name": "Xi'an Famous Foods",
+    "related_places": {},
+    "timezone": "America/New_York"
+  },
+  {
+    "fsq_id": "57583641498e90001a32e13e",
+    "categories": [
+      {
+        "id": 13148,
+        "name": "French Restaurant",
+        "short_name": "French",
+        "plural_name": "French Restaurants",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/french_",
+          "suffix": ".png"
+        }
+      }
+    ],
+    "chains": [],
+    "closed_bucket": "Unsure",
+    "distance": 854,
+    "geocodes": {
+      "drop_off": {
+        "latitude": 40.718949,
+        "longitude": -74.000062
+      },
+      "main": {
+        "latitude": 40.719105,
+        "longitude": -74.000234
+      },
+      "roof": {
+        "latitude": 40.719105,
+        "longitude": -74.000234
+      }
+    },
+    "link": "/v3/places/57583641498e90001a32e13e",
+    "location": {
+      "address": "138 Lafayette St",
+      "census_block": "360610045001010",
+      "country": "US",
+      "cross_street": "",
+      "dma": "New York",
+      "formatted_address": "138 Lafayette St, New York, NY 10013",
+      "locality": "New York",
+      "postcode": "10013",
+      "region": "NY"
+    },
+    "name": "Le Coucou",
+    "related_places": {
+      "parent": {
+        "fsq_id": "56f1dac5498ee078791a2051",
+        "categories": [
+          {
+            "id": 19014,
+            "name": "Hotel",
+            "short_name": "Hotel",
+            "plural_name": "Hotels",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hotel_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": 19019,
+            "name": "Vacation Rental",
+            "short_name": "Vacation Rental",
+            "plural_name": "Vacation Rentals",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/hostel_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "name": "11 Howard"
+      }
+    },
+    "timezone": "America/New_York"
+  }
+]

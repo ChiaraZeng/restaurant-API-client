@@ -1,0 +1,555 @@
+[
+  {
+    "fsq_id": "5bd8f4b4f709c1002cc147cd",
+    "categories": [
+      {
+        "id": 13034,
+        "name": "Caf\u00e9",
+        "short_name": "Caf\u00e9",
+        "plural_name": "Caf\u00e9s",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+          "suffix": ".png"
+        }
+      },
+      {
+        "id": 13035,
+        "name": "Coffee Shop",
+        "short_name": "Coffee Shop",
+        "plural_name": "Coffee Shops",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+          "suffix": ".png"
+        }
+      }
+    ],
+    "chains": [],
+    "closed_bucket": "LikelyOpen",
+    "distance": 213,
+    "geocodes": {
+      "main": {
+        "latitude": 42.358428,
+        "longitude": -71.057607
+      },
+      "roof": {
+        "latitude": 42.358428,
+        "longitude": -71.057607
+      }
+    },
+    "link": "/v3/places/5bd8f4b4f709c1002cc147cd",
+    "location": {
+      "address": "1 State St",
+      "census_block": "250250303021041",
+      "country": "US",
+      "cross_street": "",
+      "dma": "Boston",
+      "formatted_address": "1 State St, Boston, MA 02109",
+      "locality": "Boston",
+      "postcode": "02109",
+      "region": "MA"
+    },
+    "name": "The Well Coffeehouse",
+    "related_places": {},
+    "timezone": "America/New_York"
+  },
+  {
+    "fsq_id": "4ac53112f964a520dbb020e3",
+    "categories": [
+      {
+        "id": 13338,
+        "name": "Seafood Restaurant",
+        "short_name": "Seafood",
+        "plural_name": "Seafood Restaurants",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/seafood_",
+          "suffix": ".png"
+        }
+      }
+    ],
+    "chains": [],
+    "closed_bucket": "LikelyOpen",
+    "distance": 415,
+    "geocodes": {
+      "main": {
+        "latitude": 42.363203,
+        "longitude": -71.055918
+      },
+      "roof": {
+        "latitude": 42.363203,
+        "longitude": -71.055918
+      }
+    },
+    "link": "/v3/places/4ac53112f964a520dbb020e3",
+    "location": {
+      "address": "63 Salem St",
+      "address_extended": "Ste 1",
+      "census_block": "250250304003001",
+      "country": "US",
+      "cross_street": "at Morton St",
+      "dma": "Boston",
+      "formatted_address": "63 Salem St (at Morton St), Boston, MA 02113",
+      "locality": "Boston",
+      "postcode": "02113",
+      "region": "MA"
+    },
+    "name": "Neptune Oyster",
+    "related_places": {},
+    "timezone": "America/New_York"
+  },
+  {
+    "fsq_id": "3fd66200f964a5203eec1ee3",
+    "categories": [
+      {
+        "id": 13148,
+        "name": "French Restaurant",
+        "short_name": "French",
+        "plural_name": "French Restaurants",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/french_",
+          "suffix": ".png"
+        }
+      },
+      {
+        "id": 13236,
+        "name": "Italian Restaurant",
+        "short_name": "Italian",
+        "plural_name": "Italian Restaurants",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/italian_",
+          "suffix": ".png"
+        }
+      }
+    ],
+    "chains": [],
+    "closed_bucket": "Unsure",
+    "distance": 453,
+    "geocodes": {
+      "main": {
+        "latitude": 42.357657,
+        "longitude": -71.062852
+      },
+      "roof": {
+        "latitude": 42.357657,
+        "longitude": -71.062852
+      }
+    },
+    "link": "/v3/places/3fd66200f964a5203eec1ee3",
+    "location": {
+      "address": "9 Park St",
+      "census_block": "250250701021003",
+      "country": "US",
+      "cross_street": "",
+      "dma": "Boston",
+      "formatted_address": "9 Park St, Boston, MA 02108",
+      "locality": "Boston",
+      "postcode": "02108",
+      "region": "MA"
+    },
+    "name": "No. 9 Park",
+    "related_places": {},
+    "timezone": "America/New_York"
+  },
+  {
+    "fsq_id": "560d8c06498e79986a22ca43",
+    "categories": [
+      {
+        "id": 13016,
+        "name": "Lounge",
+        "short_name": "Lounge",
+        "plural_name": "Lounges",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/default_",
+          "suffix": ".png"
+        }
+      },
+      {
+        "id": 13314,
+        "name": "New American Restaurant",
+        "short_name": "New American",
+        "plural_name": "New American Restaurants",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/newamerican_",
+          "suffix": ".png"
+        }
+      }
+    ],
+    "chains": [],
+    "closed_bucket": "Unsure",
+    "distance": 536,
+    "geocodes": {
+      "main": {
+        "latitude": 42.355463,
+        "longitude": -71.061372
+      },
+      "roof": {
+        "latitude": 42.355463,
+        "longitude": -71.061372
+      }
+    },
+    "link": "/v3/places/560d8c06498e79986a22ca43",
+    "location": {
+      "address": "2 Winter Pl",
+      "census_block": "250250701021008",
+      "country": "US",
+      "cross_street": "Winter + Tremont",
+      "dma": "Boston",
+      "formatted_address": "2 Winter Pl (Winter + Tremont), Boston, MA 02108",
+      "locality": "Boston",
+      "postcode": "02108",
+      "region": "MA"
+    },
+    "name": "Yvonne's",
+    "related_places": {
+      "children": [
+        {
+          "fsq_id": "55f8efd2498e7f74a09acc23",
+          "categories": [
+            {
+              "id": 13009,
+              "name": "Cocktail Bar",
+              "short_name": "Cocktail",
+              "plural_name": "Cocktail Bars",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "The Library"
+        }
+      ]
+    },
+    "timezone": "America/New_York"
+  },
+  {
+    "fsq_id": "4ae4b71af964a520629d21e3",
+    "categories": [
+      {
+        "id": 13064,
+        "name": "Pizzeria",
+        "short_name": "Pizza",
+        "plural_name": "Pizzerias",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+          "suffix": ".png"
+        }
+      }
+    ],
+    "chains": [],
+    "closed_bucket": "Unsure",
+    "distance": 611,
+    "geocodes": {
+      "main": {
+        "latitude": 42.365507,
+        "longitude": -71.057035
+      },
+      "roof": {
+        "latitude": 42.365507,
+        "longitude": -71.057035
+      }
+    },
+    "link": "/v3/places/4ae4b71af964a520629d21e3",
+    "location": {
+      "address": "11 Thacher St",
+      "address_extended": "# 1/2",
+      "census_block": "250250301002005",
+      "country": "US",
+      "cross_street": "at N Margin St.",
+      "dma": "Boston",
+      "formatted_address": "11 Thacher St (at N Margin St.), Boston, MA 02113",
+      "locality": "Boston",
+      "postcode": "02113",
+      "region": "MA"
+    },
+    "name": "Regina Pizza",
+    "related_places": {},
+    "timezone": "America/New_York"
+  },
+  {
+    "fsq_id": "55098425498e04ef460a3649",
+    "categories": [
+      {
+        "id": 13043,
+        "name": "Donut Shop",
+        "short_name": "Donuts",
+        "plural_name": "Donut Shops",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/donuts_",
+          "suffix": ".png"
+        }
+      }
+    ],
+    "chains": [],
+    "closed_bucket": "Unsure",
+    "distance": 655,
+    "geocodes": {
+      "main": {
+        "latitude": 42.356346,
+        "longitude": -71.051889
+      },
+      "roof": {
+        "latitude": 42.356346,
+        "longitude": -71.051889
+      }
+    },
+    "link": "/v3/places/55098425498e04ef460a3649",
+    "location": {
+      "address": "90 Oliver St",
+      "census_block": "250250701042007",
+      "country": "US",
+      "cross_street": "",
+      "dma": "Boston",
+      "formatted_address": "90 Oliver St, Boston, MA 02110",
+      "locality": "Boston",
+      "postcode": "02110",
+      "region": "MA"
+    },
+    "name": "Kane's Donuts",
+    "related_places": {},
+    "timezone": "America/New_York"
+  },
+  {
+    "fsq_id": "5660ddb1498e4dd40ca775ce",
+    "categories": [
+      {
+        "id": 13003,
+        "name": "Bar",
+        "short_name": "Bar",
+        "plural_name": "Bars",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+          "suffix": ".png"
+        }
+      },
+      {
+        "id": 13068,
+        "name": "American Restaurant",
+        "short_name": "American",
+        "plural_name": "American Restaurants",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+          "suffix": ".png"
+        }
+      }
+    ],
+    "chains": [],
+    "closed_bucket": "LikelyOpen",
+    "distance": 620,
+    "geocodes": {
+      "main": {
+        "latitude": 42.359419,
+        "longitude": -71.051276
+      },
+      "roof": {
+        "latitude": 42.359419,
+        "longitude": -71.051276
+      }
+    },
+    "link": "/v3/places/5660ddb1498e4dd40ca775ce",
+    "location": {
+      "address": "255 State St",
+      "census_block": "250250303011002",
+      "country": "US",
+      "cross_street": "Atlantic",
+      "dma": "Boston",
+      "formatted_address": "255 State St (Atlantic), Boston, MA 02109",
+      "locality": "Boston",
+      "postcode": "02109",
+      "region": "MA"
+    },
+    "name": "State Street Provisions",
+    "related_places": {},
+    "timezone": "America/New_York"
+  },
+  {
+    "fsq_id": "4a5a9d17f964a520a6ba1fe3",
+    "categories": [
+      {
+        "id": 13002,
+        "name": "Bakery",
+        "short_name": "Bakery",
+        "plural_name": "Bakeries",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bakery_",
+          "suffix": ".png"
+        }
+      },
+      {
+        "id": 13064,
+        "name": "Pizzeria",
+        "short_name": "Pizza",
+        "plural_name": "Pizzerias",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+          "suffix": ".png"
+        }
+      },
+      {
+        "id": 13236,
+        "name": "Italian Restaurant",
+        "short_name": "Italian",
+        "plural_name": "Italian Restaurants",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/italian_",
+          "suffix": ".png"
+        }
+      }
+    ],
+    "chains": [],
+    "closed_bucket": "Unsure",
+    "distance": 633,
+    "geocodes": {
+      "drop_off": {
+        "latitude": 42.365162,
+        "longitude": -71.05549
+      },
+      "main": {
+        "latitude": 42.365178,
+        "longitude": -71.055691
+      },
+      "roof": {
+        "latitude": 42.365178,
+        "longitude": -71.055691
+      }
+    },
+    "link": "/v3/places/4a5a9d17f964a520a6ba1fe3",
+    "location": {
+      "address": "134 Salem St",
+      "census_block": "250250302001001",
+      "country": "US",
+      "cross_street": "at Prince St",
+      "dma": "Boston",
+      "formatted_address": "134 Salem St (at Prince St), Boston, MA 02113",
+      "locality": "Boston",
+      "postcode": "02113",
+      "region": "MA"
+    },
+    "name": "Bova's Bakery",
+    "related_places": {},
+    "timezone": "America/New_York"
+  },
+  {
+    "fsq_id": "5c2f8ffcb25fee002b84e590",
+    "categories": [
+      {
+        "id": 13002,
+        "name": "Bakery",
+        "short_name": "Bakery",
+        "plural_name": "Bakeries",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bakery_",
+          "suffix": ".png"
+        }
+      },
+      {
+        "id": 13035,
+        "name": "Coffee Shop",
+        "short_name": "Coffee Shop",
+        "plural_name": "Coffee Shops",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+          "suffix": ".png"
+        }
+      },
+      {
+        "id": 13065,
+        "name": "Restaurant",
+        "short_name": "Restaurant",
+        "plural_name": "Restaurants",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+          "suffix": ".png"
+        }
+      }
+    ],
+    "chains": [],
+    "closed_bucket": "LikelyOpen",
+    "distance": 790,
+    "geocodes": {
+      "drop_off": {
+        "latitude": 42.353346,
+        "longitude": -71.057391
+      },
+      "main": {
+        "latitude": 42.353051,
+        "longitude": -71.057464
+      },
+      "roof": {
+        "latitude": 42.353051,
+        "longitude": -71.057464
+      }
+    },
+    "link": "/v3/places/5c2f8ffcb25fee002b84e590",
+    "location": {
+      "address": "125 Summer St",
+      "census_block": "250250701042040",
+      "country": "US",
+      "cross_street": "",
+      "dma": "Boston",
+      "formatted_address": "125 Summer St, Boston, MA 02110",
+      "locality": "Boston",
+      "postcode": "02110",
+      "region": "MA"
+    },
+    "name": "Tatte Bakery & Cafe | Summer St",
+    "related_places": {},
+    "timezone": "America/New_York"
+  },
+  {
+    "fsq_id": "61424bb362925c5a10079b94",
+    "categories": [
+      {
+        "id": 13002,
+        "name": "Bakery",
+        "short_name": "Bakery",
+        "plural_name": "Bakeries",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bakery_",
+          "suffix": ".png"
+        }
+      },
+      {
+        "id": 13065,
+        "name": "Restaurant",
+        "short_name": "Restaurant",
+        "plural_name": "Restaurants",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+          "suffix": ".png"
+        }
+      }
+    ],
+    "chains": [],
+    "closed_bucket": "LikelyOpen",
+    "distance": 710,
+    "geocodes": {
+      "drop_off": {
+        "latitude": 42.354743,
+        "longitude": -71.0636
+      },
+      "main": {
+        "latitude": 42.354584,
+        "longitude": -71.063284
+      },
+      "roof": {
+        "latitude": 42.354584,
+        "longitude": -71.063284
+      }
+    },
+    "link": "/v3/places/61424bb362925c5a10079b94",
+    "location": {
+      "address": "151 Tremont St",
+      "census_block": "250250701022000",
+      "country": "US",
+      "cross_street": "",
+      "dma": "Boston",
+      "formatted_address": "151 Tremont St, Boston, MA 02111",
+      "locality": "Boston",
+      "postcode": "02111",
+      "region": "MA"
+    },
+    "name": "Bakey",
+    "related_places": {},
+    "timezone": "America/New_York"
+  }
+]

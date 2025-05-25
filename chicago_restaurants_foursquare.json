@@ -1,0 +1,604 @@
+[
+  {
+    "fsq_id": "49e749fbf964a52086641fe3",
+    "categories": [
+      {
+        "id": 13009,
+        "name": "Cocktail Bar",
+        "short_name": "Cocktail",
+        "plural_name": "Cocktail Bars",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_",
+          "suffix": ".png"
+        }
+      },
+      {
+        "id": 13057,
+        "name": "Gastropub",
+        "short_name": "Gastropub",
+        "plural_name": "Gastropubs",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/gastropub_",
+          "suffix": ".png"
+        }
+      },
+      {
+        "id": 13314,
+        "name": "New American Restaurant",
+        "short_name": "New American",
+        "plural_name": "New American Restaurants",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/newamerican_",
+          "suffix": ".png"
+        }
+      }
+    ],
+    "chains": [],
+    "closed_bucket": "VeryLikelyOpen",
+    "distance": 558,
+    "geocodes": {
+      "main": {
+        "latitude": 41.881477,
+        "longitude": -87.624954
+      },
+      "roof": {
+        "latitude": 41.881457,
+        "longitude": -87.624863
+      }
+    },
+    "link": "/v3/places/49e749fbf964a52086641fe3",
+    "location": {
+      "address": "24 S Michigan Ave",
+      "census_block": "170313204001009",
+      "country": "US",
+      "cross_street": "btwn Monroe & Madison St.",
+      "dma": "Chicago",
+      "formatted_address": "24 S Michigan Ave (btwn Monroe & Madison St.), Chicago, IL 60603",
+      "locality": "Chicago",
+      "postcode": "60603",
+      "region": "IL"
+    },
+    "name": "The Gage",
+    "related_places": {},
+    "timezone": "America/Chicago"
+  },
+  {
+    "fsq_id": "4e879cdc93adfd051d6d609e",
+    "categories": [
+      {
+        "id": 13034,
+        "name": "Caf\u00e9",
+        "short_name": "Caf\u00e9",
+        "plural_name": "Caf\u00e9s",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+          "suffix": ".png"
+        }
+      },
+      {
+        "id": 13068,
+        "name": "American Restaurant",
+        "short_name": "American",
+        "plural_name": "American Restaurants",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+          "suffix": ".png"
+        }
+      }
+    ],
+    "chains": [],
+    "closed_bucket": "LikelyOpen",
+    "distance": 896,
+    "geocodes": {
+      "main": {
+        "latitude": 41.885006,
+        "longitude": -87.623119
+      },
+      "roof": {
+        "latitude": 41.885006,
+        "longitude": -87.623119
+      }
+    },
+    "link": "/v3/places/4e879cdc93adfd051d6d609e",
+    "location": {
+      "address": "130 E Randolph St",
+      "address_extended": "Ste CL3",
+      "census_block": "170313201021026",
+      "country": "US",
+      "cross_street": "",
+      "dma": "Chicago",
+      "formatted_address": "130 E Randolph St, Chicago, IL 60601",
+      "locality": "Chicago",
+      "postcode": "60601",
+      "region": "IL"
+    },
+    "name": "Wildberry Pancakes & Cafe",
+    "related_places": {},
+    "timezone": "America/Chicago"
+  },
+  {
+    "fsq_id": "59ee3691356b491e4341b14d",
+    "categories": [
+      {
+        "id": 13009,
+        "name": "Cocktail Bar",
+        "short_name": "Cocktail",
+        "plural_name": "Cocktail Bars",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_",
+          "suffix": ".png"
+        }
+      },
+      {
+        "id": 13031,
+        "name": "Burger Joint",
+        "short_name": "Burgers",
+        "plural_name": "Burger Joints",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/burger_",
+          "suffix": ".png"
+        }
+      },
+      {
+        "id": 13145,
+        "name": "Fast Food Restaurant",
+        "short_name": "Fast Food",
+        "plural_name": "Fast Food Restaurants",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+          "suffix": ".png"
+        }
+      }
+    ],
+    "chains": [],
+    "closed_bucket": "Unsure",
+    "distance": 1034,
+    "geocodes": {
+      "main": {
+        "latitude": 41.885024,
+        "longitude": -87.638457
+      },
+      "roof": {
+        "latitude": 41.885024,
+        "longitude": -87.638457
+      }
+    },
+    "link": "/v3/places/59ee3691356b491e4341b14d",
+    "location": {
+      "address": "150 N Riverside Plz",
+      "census_block": "170312801001001",
+      "country": "US",
+      "cross_street": "Randolph Street",
+      "dma": "Chicago",
+      "formatted_address": "150 N Riverside Plz (Randolph Street), Chicago, IL 60606",
+      "locality": "Chicago",
+      "postcode": "60606",
+      "region": "IL"
+    },
+    "name": "Hogsalt - Small C",
+    "related_places": {
+      "parent": {
+        "fsq_id": "5717d696498eb942c4b4d8cd",
+        "categories": [
+          {
+            "id": 11130,
+            "name": "Office Building",
+            "short_name": "Office Building",
+            "plural_name": "Office Buildings",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "name": "150 N Riverside Plaza"
+      }
+    },
+    "timezone": "America/Chicago"
+  },
+  {
+    "fsq_id": "4a5a128ef964a520b0b91fe3",
+    "categories": [
+      {
+        "id": 13039,
+        "name": "Deli",
+        "short_name": "Deli",
+        "plural_name": "Delis",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/deli_",
+          "suffix": ".png"
+        }
+      },
+      {
+        "id": 13049,
+        "name": "Diner",
+        "short_name": "Diner",
+        "plural_name": "Diners",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/diner_",
+          "suffix": ".png"
+        }
+      },
+      {
+        "id": 13068,
+        "name": "American Restaurant",
+        "short_name": "American",
+        "plural_name": "American Restaurants",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+          "suffix": ".png"
+        }
+      }
+    ],
+    "chains": [],
+    "closed_bucket": "LikelyOpen",
+    "distance": 1114,
+    "geocodes": {
+      "main": {
+        "latitude": 41.868693,
+        "longitude": -87.626306
+      },
+      "roof": {
+        "latitude": 41.868693,
+        "longitude": -87.626306
+      }
+    },
+    "link": "/v3/places/4a5a128ef964a520b0b91fe3",
+    "location": {
+      "address": "1112 S Wabash Ave",
+      "address_extended": "Frnt 2",
+      "census_block": "170313206001009",
+      "country": "US",
+      "cross_street": "btwn 11th St & Roosevelt Rd",
+      "dma": "Chicago",
+      "formatted_address": "1112 S Wabash Ave (btwn 11th St & Roosevelt Rd), Chicago, IL 60605",
+      "locality": "Chicago",
+      "postcode": "60605",
+      "region": "IL"
+    },
+    "name": "Eleven City Diner",
+    "related_places": {},
+    "timezone": "America/Chicago"
+  },
+  {
+    "fsq_id": "5e14e8f1a10b9200083472de",
+    "categories": [
+      {
+        "id": 13338,
+        "name": "Seafood Restaurant",
+        "short_name": "Seafood",
+        "plural_name": "Seafood Restaurants",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/seafood_",
+          "suffix": ".png"
+        }
+      }
+    ],
+    "chains": [],
+    "closed_bucket": "Unsure",
+    "distance": 1132,
+    "geocodes": {
+      "drop_off": {
+        "latitude": 41.888177,
+        "longitude": -87.63105
+      },
+      "main": {
+        "latitude": 41.888186,
+        "longitude": -87.630658
+      },
+      "roof": {
+        "latitude": 41.888186,
+        "longitude": -87.630658
+      }
+    },
+    "link": "/v3/places/5e14e8f1a10b9200083472de",
+    "location": {
+      "address": "317 N Clark St",
+      "census_block": "170310817002039",
+      "country": "US",
+      "cross_street": "",
+      "dma": "Chicago",
+      "formatted_address": "317 N Clark St, Chicago, IL 60654",
+      "locality": "Chicago",
+      "postcode": "60654",
+      "region": "IL"
+    },
+    "name": "RPM Seafood",
+    "related_places": {},
+    "timezone": "America/Chicago"
+  },
+  {
+    "fsq_id": "59deb72f061b514b32a062af",
+    "categories": [
+      {
+        "id": 13236,
+        "name": "Italian Restaurant",
+        "short_name": "Italian",
+        "plural_name": "Italian Restaurants",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/italian_",
+          "suffix": ".png"
+        }
+      },
+      {
+        "id": 13383,
+        "name": "Steakhouse",
+        "short_name": "Steakhouse",
+        "plural_name": "Steakhouses",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/steakhouse_",
+          "suffix": ".png"
+        }
+      }
+    ],
+    "chains": [],
+    "closed_bucket": "Unsure",
+    "distance": 1244,
+    "geocodes": {
+      "main": {
+        "latitude": 41.886647,
+        "longitude": -87.639547
+      },
+      "roof": {
+        "latitude": 41.886647,
+        "longitude": -87.639547
+      }
+    },
+    "link": "/v3/places/59deb72f061b514b32a062af",
+    "location": {
+      "address": "233 N Canal St",
+      "census_block": "170312801002002",
+      "country": "US",
+      "cross_street": "Fulton",
+      "dma": "Chicago",
+      "formatted_address": "233 N Canal St (Fulton), Chicago, IL 60606",
+      "locality": "Chicago",
+      "postcode": "60606",
+      "region": "IL"
+    },
+    "name": "Gibsons Italia",
+    "related_places": {},
+    "timezone": "America/Chicago"
+  },
+  {
+    "fsq_id": "500efc40e4b0e6ec47971a9e",
+    "categories": [
+      {
+        "id": 13148,
+        "name": "French Restaurant",
+        "short_name": "French",
+        "plural_name": "French Restaurants",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/french_",
+          "suffix": ".png"
+        }
+      },
+      {
+        "id": 13383,
+        "name": "Steakhouse",
+        "short_name": "Steakhouse",
+        "plural_name": "Steakhouses",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/steakhouse_",
+          "suffix": ".png"
+        }
+      }
+    ],
+    "chains": [],
+    "closed_bucket": "Unsure",
+    "distance": 1294,
+    "geocodes": {
+      "drop_off": {
+        "latitude": 41.889146,
+        "longitude": -87.634934
+      },
+      "main": {
+        "latitude": 41.889338,
+        "longitude": -87.634936
+      },
+      "roof": {
+        "latitude": 41.889338,
+        "longitude": -87.634936
+      }
+    },
+    "link": "/v3/places/500efc40e4b0e6ec47971a9e",
+    "location": {
+      "address": "218 W Kinzie St",
+      "census_block": "170310818002011",
+      "country": "US",
+      "cross_street": "at N Wells St",
+      "dma": "Chicago",
+      "formatted_address": "218 W Kinzie St (at N Wells St), Chicago, IL 60654",
+      "locality": "Chicago",
+      "postcode": "60654",
+      "region": "IL"
+    },
+    "name": "Bavette's Bar & Boeuf",
+    "related_places": {},
+    "timezone": "America/Chicago"
+  },
+  {
+    "fsq_id": "51094b2ce4b04df5935bccba",
+    "categories": [
+      {
+        "id": 13001,
+        "name": "Bagel Shop",
+        "short_name": "Bagels",
+        "plural_name": "Bagel Shops",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bagels_",
+          "suffix": ".png"
+        }
+      },
+      {
+        "id": 13002,
+        "name": "Bakery",
+        "short_name": "Bakery",
+        "plural_name": "Bakeries",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bakery_",
+          "suffix": ".png"
+        }
+      },
+      {
+        "id": 13068,
+        "name": "American Restaurant",
+        "short_name": "American",
+        "plural_name": "American Restaurants",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+          "suffix": ".png"
+        }
+      }
+    ],
+    "chains": [],
+    "closed_bucket": "LikelyOpen",
+    "distance": 1324,
+    "geocodes": {
+      "drop_off": {
+        "latitude": 41.890027,
+        "longitude": -87.630697
+      },
+      "main": {
+        "latitude": 41.890189,
+        "longitude": -87.630699
+      },
+      "roof": {
+        "latitude": 41.890189,
+        "longitude": -87.630699
+      }
+    },
+    "link": "/v3/places/51094b2ce4b04df5935bccba",
+    "location": {
+      "address": "68 W Hubbard St",
+      "census_block": "170310817002027",
+      "country": "US",
+      "cross_street": "at N Clark St",
+      "dma": "Chicago",
+      "formatted_address": "68 W Hubbard St (at N Clark St), Chicago, IL 60654",
+      "locality": "Chicago",
+      "postcode": "60654",
+      "region": "IL"
+    },
+    "name": "Firecakes Donuts",
+    "related_places": {},
+    "timezone": "America/Chicago"
+  },
+  {
+    "fsq_id": "4ad91beff964a5202e1821e3",
+    "categories": [
+      {
+        "id": 13276,
+        "name": "Sushi Restaurant",
+        "short_name": "Sushi",
+        "plural_name": "Sushi Restaurants",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/sushi_",
+          "suffix": ".png"
+        }
+      },
+      {
+        "id": 13338,
+        "name": "Seafood Restaurant",
+        "short_name": "Seafood",
+        "plural_name": "Seafood Restaurants",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/seafood_",
+          "suffix": ".png"
+        }
+      }
+    ],
+    "chains": [],
+    "closed_bucket": "Unsure",
+    "distance": 1337,
+    "geocodes": {
+      "main": {
+        "latitude": 41.889882,
+        "longitude": -87.627113
+      },
+      "roof": {
+        "latitude": 41.889882,
+        "longitude": -87.627113
+      }
+    },
+    "link": "/v3/places/4ad91beff964a5202e1821e3",
+    "location": {
+      "address": "21 E Hubbard St",
+      "census_block": "170310815003012",
+      "country": "US",
+      "cross_street": "at N Wabash Ave",
+      "dma": "Chicago",
+      "formatted_address": "21 E Hubbard St (at N Wabash Ave), Chicago, IL 60611",
+      "locality": "Chicago",
+      "postcode": "60611",
+      "region": "IL"
+    },
+    "name": "Shaw's Crab House",
+    "related_places": {},
+    "timezone": "America/Chicago"
+  },
+  {
+    "fsq_id": "4197f180f964a520181e1fe3",
+    "categories": [
+      {
+        "id": 13025,
+        "name": "Wine Bar",
+        "short_name": "Wine Bar",
+        "plural_name": "Wine Bars",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/winery_",
+          "suffix": ".png"
+        }
+      },
+      {
+        "id": 13148,
+        "name": "French Restaurant",
+        "short_name": "French",
+        "plural_name": "French Restaurants",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/french_",
+          "suffix": ".png"
+        }
+      },
+      {
+        "id": 13302,
+        "name": "Mediterranean Restaurant",
+        "short_name": "Mediterranean",
+        "plural_name": "Mediterranean Restaurants",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/mediterranean_",
+          "suffix": ".png"
+        }
+      }
+    ],
+    "chains": [],
+    "closed_bucket": "LikelyOpen",
+    "distance": 1336,
+    "geocodes": {
+      "main": {
+        "latitude": 41.884262,
+        "longitude": -87.643221
+      },
+      "roof": {
+        "latitude": 41.884262,
+        "longitude": -87.643221
+      }
+    },
+    "link": "/v3/places/4197f180f964a520181e1fe3",
+    "location": {
+      "address": "615 W Randolph St",
+      "address_extended": "Ste A",
+      "census_block": "170312801001012",
+      "country": "US",
+      "cross_street": "at N Jefferson St",
+      "dma": "Chicago",
+      "formatted_address": "615 W Randolph St (at N Jefferson St), Chicago, IL 60661",
+      "locality": "Chicago",
+      "postcode": "60661",
+      "region": "IL"
+    },
+    "name": "Avec",
+    "related_places": {},
+    "timezone": "America/Chicago"
+  }
+]

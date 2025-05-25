@@ -1,0 +1,507 @@
+[
+  {
+    "fsq_id": "635578d60a512e6cd2c6bf38",
+    "categories": [
+      {
+        "id": 13034,
+        "name": "Caf\u00e9",
+        "short_name": "Caf\u00e9",
+        "plural_name": "Caf\u00e9s",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+          "suffix": ".png"
+        }
+      }
+    ],
+    "chains": [],
+    "closed_bucket": "LikelyOpen",
+    "distance": 260,
+    "geocodes": {
+      "main": {
+        "latitude": 37.774836,
+        "longitude": -122.422363
+      },
+      "roof": {
+        "latitude": 37.774836,
+        "longitude": -122.422363
+      }
+    },
+    "link": "/v3/places/635578d60a512e6cd2c6bf38",
+    "location": {
+      "address": "198 Gough St",
+      "census_block": "060750168021001",
+      "country": "US",
+      "cross_street": "",
+      "dma": "San Francisco-Oakland-San Jose",
+      "formatted_address": "198 Gough St, San Francisco, CA 94102",
+      "locality": "San Francisco",
+      "postcode": "94102",
+      "region": "CA"
+    },
+    "name": "Loquat",
+    "related_places": {},
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fsq_id": "500088f7d63e64b62bc19e6e",
+    "categories": [
+      {
+        "id": 13148,
+        "name": "French Restaurant",
+        "short_name": "French",
+        "plural_name": "French Restaurants",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/french_",
+          "suffix": ".png"
+        }
+      },
+      {
+        "id": 13314,
+        "name": "New American Restaurant",
+        "short_name": "New American",
+        "plural_name": "New American Restaurants",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/newamerican_",
+          "suffix": ".png"
+        }
+      }
+    ],
+    "chains": [],
+    "closed_bucket": "LikelyOpen",
+    "distance": 293,
+    "geocodes": {
+      "main": {
+        "latitude": 37.774857,
+        "longitude": -122.422938
+      },
+      "roof": {
+        "latitude": 37.774857,
+        "longitude": -122.422938
+      }
+    },
+    "link": "/v3/places/500088f7d63e64b62bc19e6e",
+    "location": {
+      "address": "199 Gough St",
+      "census_block": "060750168021002",
+      "country": "US",
+      "cross_street": "at Oak St",
+      "dma": "San Francisco-Oakland-San Jose",
+      "formatted_address": "199 Gough St (at Oak St), San Francisco, CA 94102",
+      "locality": "San Francisco",
+      "postcode": "94102",
+      "region": "CA"
+    },
+    "name": "Rich Table",
+    "related_places": {},
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fsq_id": "533cc33f498e604ebad95d8c",
+    "categories": [
+      {
+        "id": 13188,
+        "name": "Souvlaki Shop",
+        "short_name": "Souvlaki",
+        "plural_name": "Souvlaki Shops",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/souvlaki_",
+          "suffix": ".png"
+        }
+      },
+      {
+        "id": 13302,
+        "name": "Mediterranean Restaurant",
+        "short_name": "Mediterranean",
+        "plural_name": "Mediterranean Restaurants",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/mediterranean_",
+          "suffix": ".png"
+        }
+      },
+      {
+        "id": 13334,
+        "name": "Sandwich Spot",
+        "short_name": "Sandwich Spot",
+        "plural_name": "Sandwich Spots",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/deli_",
+          "suffix": ".png"
+        }
+      }
+    ],
+    "chains": [],
+    "closed_bucket": "Unsure",
+    "distance": 522,
+    "geocodes": {
+      "main": {
+        "latitude": 37.776461,
+        "longitude": -122.425039
+      },
+      "roof": {
+        "latitude": 37.776461,
+        "longitude": -122.425039
+      }
+    },
+    "link": "/v3/places/533cc33f498e604ebad95d8c",
+    "location": {
+      "address": "517 Hayes St",
+      "census_block": "060750162003004",
+      "country": "US",
+      "cross_street": "at Octavia St",
+      "dma": "San Francisco-Oakland-San Jose",
+      "formatted_address": "517 Hayes St (at Octavia St), San Francisco, CA 94102",
+      "locality": "San Francisco",
+      "postcode": "94102",
+      "region": "CA"
+    },
+    "name": "Souvla",
+    "related_places": {},
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fsq_id": "49ce86fff964a520515a1fe3",
+    "categories": [
+      {
+        "id": 13276,
+        "name": "Sushi Restaurant",
+        "short_name": "Sushi",
+        "plural_name": "Sushi Restaurants",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/sushi_",
+          "suffix": ".png"
+        }
+      }
+    ],
+    "chains": [],
+    "closed_bucket": "Unsure",
+    "distance": 604,
+    "geocodes": {
+      "main": {
+        "latitude": 37.775842,
+        "longitude": -122.426293
+      },
+      "roof": {
+        "latitude": 37.775842,
+        "longitude": -122.426293
+      }
+    },
+    "link": "/v3/places/49ce86fff964a520515a1fe3",
+    "location": {
+      "address": "511 Laguna St",
+      "census_block": "060750163002003",
+      "country": "US",
+      "cross_street": "at Linden St",
+      "dma": "San Francisco-Oakland-San Jose",
+      "formatted_address": "511 Laguna St (at Linden St), San Francisco, CA 94102",
+      "locality": "San Francisco",
+      "postcode": "94102",
+      "region": "CA"
+    },
+    "name": "Domo",
+    "related_places": {},
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fsq_id": "54976d5c498eccc96c62bc55",
+    "categories": [
+      {
+        "id": 13094,
+        "name": "Burmese Restaurant",
+        "short_name": "Burmese",
+        "plural_name": "Burmese Restaurants",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/asian_",
+          "suffix": ".png"
+        }
+      }
+    ],
+    "chains": [],
+    "closed_bucket": "Unsure",
+    "distance": 637,
+    "geocodes": {
+      "drop_off": {
+        "latitude": 37.769572,
+        "longitude": -122.422336
+      },
+      "main": {
+        "latitude": 37.769594,
+        "longitude": -122.422125
+      },
+      "roof": {
+        "latitude": 37.769594,
+        "longitude": -122.422125
+      }
+    },
+    "link": "/v3/places/54976d5c498eccc96c62bc55",
+    "location": {
+      "address": "211 Valencia St",
+      "census_block": "060750201012004",
+      "country": "US",
+      "cross_street": "Duboce Ave",
+      "dma": "San Francisco-Oakland-San Jose",
+      "formatted_address": "211 Valencia St (Duboce Ave), San Francisco, CA 94103",
+      "locality": "San Francisco",
+      "postcode": "94103",
+      "region": "CA"
+    },
+    "name": "Burma Love",
+    "related_places": {},
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fsq_id": "54a8b5d1498ef8abe40ce6b3",
+    "categories": [
+      {
+        "id": 13276,
+        "name": "Sushi Restaurant",
+        "short_name": "Sushi",
+        "plural_name": "Sushi Restaurants",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/sushi_",
+          "suffix": ".png"
+        }
+      }
+    ],
+    "chains": [],
+    "closed_bucket": "Unsure",
+    "distance": 770,
+    "geocodes": {
+      "drop_off": {
+        "latitude": 37.768176,
+        "longitude": -122.421683
+      },
+      "main": {
+        "latitude": 37.768028,
+        "longitude": -122.421674
+      },
+      "roof": {
+        "latitude": 37.768028,
+        "longitude": -122.421674
+      }
+    },
+    "link": "/v3/places/54a8b5d1498ef8abe40ce6b3",
+    "location": {
+      "address": "370 14th St",
+      "census_block": "060750201012010",
+      "country": "US",
+      "cross_street": "at Stevenson St",
+      "dma": "San Francisco-Oakland-San Jose",
+      "formatted_address": "370 14th St (at Stevenson St), San Francisco, CA 94103",
+      "locality": "San Francisco",
+      "postcode": "94103",
+      "region": "CA"
+    },
+    "name": "Shizen",
+    "related_places": {},
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fsq_id": "5459e645498e480913b7ee7b",
+    "categories": [
+      {
+        "id": 13263,
+        "name": "Japanese Restaurant",
+        "short_name": "Japanese",
+        "plural_name": "Japanese Restaurants",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/japanese_",
+          "suffix": ".png"
+        }
+      }
+    ],
+    "chains": [],
+    "closed_bucket": "LikelyOpen",
+    "distance": 779,
+    "geocodes": {
+      "drop_off": {
+        "latitude": 37.768575,
+        "longitude": -122.415112
+      },
+      "main": {
+        "latitude": 37.768854,
+        "longitude": -122.415129
+      },
+      "roof": {
+        "latitude": 37.768854,
+        "longitude": -122.415129
+      }
+    },
+    "link": "/v3/places/5459e645498e480913b7ee7b",
+    "location": {
+      "address": "82 14th St",
+      "census_block": "060750177002017",
+      "country": "US",
+      "cross_street": "at Folsom St",
+      "dma": "San Francisco-Oakland-San Jose",
+      "formatted_address": "82 14th St (at Folsom St), San Francisco, CA 94103",
+      "locality": "San Francisco",
+      "postcode": "94103",
+      "region": "CA"
+    },
+    "name": "Rintaro",
+    "related_places": {
+      "children": [
+        {
+          "fsq_id": "59964af218d43b6d0983125e",
+          "categories": [
+            {
+              "id": 13263,
+              "name": "Japanese Restaurant",
+              "short_name": "Japanese",
+              "plural_name": "Japanese Restaurants",
+              "icon": {
+                "prefix": "https://ss3.4sqi.net/img/categories_v2/food/japanese_",
+                "suffix": ".png"
+              }
+            }
+          ],
+          "name": "Okkon Japanese Street Food"
+        }
+      ]
+    },
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fsq_id": "63179b969d89197d11ce737a",
+    "categories": [
+      {
+        "id": 13064,
+        "name": "Pizzeria",
+        "short_name": "Pizza",
+        "plural_name": "Pizzerias",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+          "suffix": ".png"
+        }
+      }
+    ],
+    "chains": [],
+    "closed_bucket": "LikelyOpen",
+    "distance": 791,
+    "geocodes": {
+      "drop_off": {
+        "latitude": 37.781738,
+        "longitude": -122.417231
+      },
+      "main": {
+        "latitude": 37.781777,
+        "longitude": -122.417039
+      },
+      "roof": {
+        "latitude": 37.781777,
+        "longitude": -122.417039
+      }
+    },
+    "link": "/v3/places/63179b969d89197d11ce737a",
+    "location": {
+      "address": "422 Larkin St",
+      "census_block": "060750124032000",
+      "country": "US",
+      "cross_street": "at Golden Gate Ave",
+      "dma": "San Francisco-Oakland-San Jose",
+      "formatted_address": "422 Larkin St (at Golden Gate Ave), San Francisco, CA 94102",
+      "locality": "San Francisco",
+      "postcode": "94102",
+      "region": "CA"
+    },
+    "name": "Outta Sight Pizza",
+    "related_places": {},
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fsq_id": "5e1f7b2049c88c0008ff1744",
+    "categories": [
+      {
+        "id": 13002,
+        "name": "Bakery",
+        "short_name": "Bakery",
+        "plural_name": "Bakeries",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bakery_",
+          "suffix": ".png"
+        }
+      }
+    ],
+    "chains": [],
+    "closed_bucket": "Unsure",
+    "distance": 838,
+    "geocodes": {
+      "main": {
+        "latitude": 37.780748,
+        "longitude": -122.413394
+      },
+      "roof": {
+        "latitude": 37.780748,
+        "longitude": -122.413394
+      }
+    },
+    "link": "/v3/places/5e1f7b2049c88c0008ff1744",
+    "location": {
+      "address": "87 McAllister St",
+      "census_block": "060750125041001",
+      "country": "US",
+      "cross_street": "",
+      "dma": "San Francisco-Oakland-San Jose",
+      "formatted_address": "87 McAllister St, San Francisco, CA 94102",
+      "locality": "San Francisco",
+      "postcode": "94102",
+      "region": "CA"
+    },
+    "name": "Arsicault",
+    "related_places": {},
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "fsq_id": "5c09e17b894eac002c3810b9",
+    "categories": [
+      {
+        "id": 13064,
+        "name": "Pizzeria",
+        "short_name": "Pizza",
+        "plural_name": "Pizzerias",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+          "suffix": ".png"
+        }
+      },
+      {
+        "id": 13388,
+        "name": "Wings Joint",
+        "short_name": "Wings",
+        "plural_name": "Wings Joints",
+        "icon": {
+          "prefix": "https://ss3.4sqi.net/img/categories_v2/food/wings_",
+          "suffix": ".png"
+        }
+      }
+    ],
+    "chains": [],
+    "closed_bucket": "Unsure",
+    "distance": 890,
+    "geocodes": {
+      "main": {
+        "latitude": 37.77953,
+        "longitude": -122.410096
+      },
+      "roof": {
+        "latitude": 37.77953,
+        "longitude": -122.410096
+      }
+    },
+    "link": "/v3/places/5c09e17b894eac002c3810b9",
+    "location": {
+      "address": "1077 Mission St",
+      "census_block": "060750176021000",
+      "country": "US",
+      "cross_street": "7th Street",
+      "dma": "San Francisco-Oakland-San Jose",
+      "formatted_address": "1077 Mission St (7th Street), San Francisco, CA 94103",
+      "locality": "San Francisco",
+      "postcode": "94103",
+      "region": "CA"
+    },
+    "name": "Square Pie Guys",
+    "related_places": {},
+    "timezone": "America/Los_Angeles"
+  }
+]
